@@ -4,7 +4,7 @@
 # 1.思考如何自定义next方法，哪些对象可以使用next方法，next方法的实例用法深度解析
 # 2.可接受迭代的内建函数有哪些，什么样的函数可以接受可迭代的函数，底层原理是
 # 什么，知道这点，可以方便自己定义函数时，知道可以用哪些方法
-
+# 3.itertools模块有哪些用法
 # 优化点：
 
 # 4.2 委托迭代
@@ -145,3 +145,107 @@ with open('liuhu.txt') as f:
         if 'python' in line:
             for lineno, hline in lines.history:
                 print('{}:{}'.format(lineno, hline), end='')
+
+
+
+
+# 4.7迭代器切片
+def count(n):
+     while True:
+        yield n
+        n += 1
+
+c = count(0)
+
+# Now using islice()
+import itertools
+for x in itertools.islice(c, 10, 20):
+     print(x)
+
+
+# 4.8 跳过可迭代对象的开始部分
+# 方法一：itertools.dropwhile() 函数，仅仅跳过开始部
+# 分满足测试条件的行，在那以后，所有的元素不再进行测试和过滤了。
+from itertools import dropwhile
+with open('liuhu.txt') as f:
+    for line in dropwhile(lambda line: line.startswith('#'), f):
+        print(line, end='')
+
+print("\n")
+# 方法二：islice()
+from itertools import islice
+items = ['a', 'b', 'c', 1, 4, 10, 15]
+for x in islice(items, 3, None):
+    print(x,end=",")
+# 1,4,10,15,
+print("\n")
+for x in islice(items,None,3):
+    print(x,end=",")
+# a,b,c,
+
+
+# 方法三：会过滤掉所有以#号开头的行
+with open('liuhu.txt') as f:
+    lines = (line for line in f if not line.startswith('#'))
+    for line in lines:
+        print(line, end='')
+
+
+# 4.9 排列组合的迭代
+# 情形一：每一个集合中的元素不可再元组中重复
+items = ['a', 'b', 'c']
+from itertools import permutations
+for p in permutations(items):
+    print(p)
+
+
+# 情形二：元组中元素可以重复
+from itertools import combinations_with_replacement
+for c in combinations_with_replacement(items, 3):
+    print(c)
+
+#  情形三：按参数个数进行组合
+for p in permutations(items, 2):
+    print(p)
+
+# 情形四：无序组合
+from itertools import combinations
+for c in combinations(items, 2):
+    print(c)
+
+# 4.10 序列上索引值迭代
+# enumerate() 函数
+my_list = ['a', 'b', 'c']
+for idx, val in enumerate(my_list, 2):
+    print(idx, val)
+# 2 a
+# 3 b
+# 4 c
+
+def parse_data(filename):
+    with open(filename, 'rt') as f:
+        for lineno, line in enumerate(f, 5):
+            print(lineno,line)
+            fields = line.split()
+            try:
+                count = int(fields[1])
+                print(fields)
+            except ValueError as e:
+                print('Line {}: Parse error: {}'.format(lineno, e))
+
+parse_data("test.txt")
+
+from collections import defaultdict
+word_summary = defaultdict(list)
+
+with open('test.txt', 'r') as f:
+    lines = f.readlines()
+    print(lines)
+
+for idx, line in enumerate(lines):
+    # Create a list of words in current line
+    words = [w.strip().lower() for w in line.split()]
+    for word in words:
+        # 字典赋值
+        word_summary[word].append(idx)
+print(word_summary)
