@@ -249,3 +249,38 @@ for idx, line in enumerate(lines):
         # 字典赋值
         word_summary[word].append(idx)
 print(word_summary)
+
+
+# 4.11同时迭代多个对象
+a = [1, 2, 3]
+b = [10, 11, 12,15]
+c = ['x','y','z','u','v']
+for i,j in zip(a,b):
+    print(i, j)
+# 返回的是一对数值
+# 1 10
+# 2 11
+# 3 12
+
+# 返回的元组形式
+for i in zip(a, b, c):
+    print(i)
+# (1, 10, 'x')
+# (2, 11, 'y')
+# (3, 12, 'z')
+
+from itertools import zip_longest
+for i in zip_longest(a, b, c,fillvalue =0):
+    print(i)
+# fillvalue为可选参数
+# (1, 10, 'x')
+# (2, 11, 'y')
+# (3, 12, 'z')
+# (0, 15, 'u')
+# (0, 0, 'v')
+
+print(zip(a, b))
+# <zip object at 0x000001C6ABC97C88>
+
+print(list(zip(a, b)))
+[(1, 10), (2, 11), (3, 12)]
