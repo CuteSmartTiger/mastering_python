@@ -284,3 +284,14 @@ print(zip(a, b))
 
 print(list(zip(a, b)))
 [(1, 10), (2, 11), (3, 12)]
+
+# 4.12chain()不同集合上元素的迭代
+# 如果输入序列非常大的时候会很省内存。 并且当可迭
+# 代对象类型不一样的时候 chain() 同样可以很好的工作。
+from itertools import chain
+a = [1, 2, 3, 4]
+b = ['x', 'y', 'z']
+for x in chain(a, b):
+    print(x,end=',')
+# 1,2,3,4,x,y,z,
+# 而for x in a + b:不推荐
