@@ -5,6 +5,14 @@ import gzip
 import bz2
 import re
 
+# 搞清楚以下知识点：
+# 1.os.walk 用法
+# 2.fnmatch.filter用法
+# 3.search与match的区别
+# 4.整个运行的机理
+
+
+
 def gen_find(filepat, top):
     '''
     Find all filenames in a directory tree that match a shell wildcard pattern

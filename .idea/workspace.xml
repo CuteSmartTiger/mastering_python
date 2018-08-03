@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e824a83a-fc2a-4a27-a88f-3be1e2f1fe5e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/iterationANDgenerate/use_tube_in_iter.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/iterationANDgenerate/zhankai.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/9.10 classstatic_classmethod.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/9.10.1the_diffenrence_between_classstatic_classmethod.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/9.11decorate_add_args_to_function.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/9.12 decorate_add_function_to_class_definition.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/9.7decorate_force_to_inspect.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/9.8decorate_definite_decorators_in_class.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/9.9decorate_add_decorators_to_class.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/decorate_add_property.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/decorate_improve.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/decorates_know_better.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/decorator_work.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/iteration_generate.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/liuhu.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/test.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/iterationANDgenerate/use_tube_in_iter.py" afterPath="$PROJECT_DIR$/iterationANDgenerate/use_tube_in_iter.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,7 +14,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/mastering_python$iteration_generate.coverage" NAME="iteration_generate Coverage Results" MODIFIED="1533309198649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mastering_python$iteration_generate.coverage" NAME="iteration_generate Coverage Results" MODIFIED="1533310656114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mastering_python$zhankai.coverage" NAME="zhankai Coverage Results" MODIFIED="1533310667792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iterationANDgenerate" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
@@ -51,14 +39,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="use_tube_in_iter.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="use_tube_in_iter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/iterationANDgenerate/use_tube_in_iter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="52" column="26" lean-forward="false" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+            <state relative-caret-position="697">
+              <caret line="60" column="20" lean-forward="false" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
               <folding>
                 <element signature="e#13#22#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zhankai.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/iterationANDgenerate/zhankai.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -83,6 +81,7 @@
         <option value="$PROJECT_DIR$/test.txt" />
         <option value="$PROJECT_DIR$/iteration_generate.py" />
         <option value="$PROJECT_DIR$/iterationANDgenerate/use_tube_in_iter.py" />
+        <option value="$PROJECT_DIR$/iterationANDgenerate/zhankai.py" />
       </list>
     </option>
   </component>
@@ -154,7 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.iteration_generate">
+  <component name="RunManager" selected="Python.zhankai">
     <configuration name="4.iteration_generate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,14 +192,35 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="2">
+    <configuration name="zhankai" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iterationANDgenerate" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mastering python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iterationANDgenerate/zhankai.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.4.iteration_generate" />
       <item index="1" class="java.lang.String" itemvalue="Python.iteration_generate" />
+      <item index="2" class="java.lang.String" itemvalue="Python.zhankai" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.iteration_generate" />
-        <item index="1" class="java.lang.String" itemvalue="Python.4.iteration_generate" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.zhankai" />
+        <item index="1" class="java.lang.String" itemvalue="Python.iteration_generate" />
+        <item index="2" class="java.lang.String" itemvalue="Python.4.iteration_generate" />
       </list>
     </recent_temporary>
   </component>
@@ -409,11 +429,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/iterationANDgenerate/use_tube_in_iter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="52" column="26" lean-forward="false" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+        <state relative-caret-position="697">
+          <caret line="60" column="20" lean-forward="false" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
           <folding>
             <element signature="e#13#22#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iterationANDgenerate/zhankai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
