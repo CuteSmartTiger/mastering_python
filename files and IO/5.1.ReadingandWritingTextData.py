@@ -19,18 +19,21 @@
 text1 = "test for fun"
 text2 = "test for joy"
 # Write chunks of text data
+# 如果是在已存在文件中添加内容，使用模式为 at 的 open() 函数。
 with open('test.txt', 'wt',encoding="utf-8") as f:
+    # 两次输入的内容在同一行
     f.write(text1)
     f.write(text2)
     f.close()
     # for line in f:
     #     print(line)
 
-with open('test.txt', 'rt') as f:
-    f.read()
 
 
 # Redirected print statement
-with open('test.txt', 'wt',newline="",encoding="utf-8",errors="ignore") as f:
-    print(file=f)
-    print(file=f)
+# with open('test.txt', 'wt',newline="",encoding="utf-8",errors="ignore") as f:
+# 使用打印重定向的方式可以写入数据成功
+with open('test.txt', 'wt') as f:
+    print(text1,file=f)
+    print(text2,file=f)
+    # 两次输入的内容分为两行
