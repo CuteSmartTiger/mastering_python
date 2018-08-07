@@ -11,3 +11,10 @@ print(','.join(('ACME','50','91.5')))
 
 row = ('ACME', 50, 91.5)
 print(','.join(str(x) for x in row))
+
+#  * 的用法
+print(*row,end=",")
+# ACME 50 91.5,
+
+print(*row,sep=",")
+# ACME,50,91.5
