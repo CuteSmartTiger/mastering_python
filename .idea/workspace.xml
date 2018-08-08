@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e824a83a-fc2a-4a27-a88f-3be1e2f1fe5e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/files and IO/5.7.ReadingandWritingCompressedDatafiles.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/files and IO/5.8.IteratingOverFixed-SizedRecords.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/files and IO/README.md" afterPath="$PROJECT_DIR$/files and IO/README.md" />
     </list>
@@ -24,8 +24,9 @@
     <SUITE FILE_PATH="coverage/mastering_python$5_2_PrintingToAFile.coverage" NAME="5.2.PrintingToAFile Coverage Results" MODIFIED="1533655901295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
     <SUITE FILE_PATH="coverage/mastering_python$4_14use_tube_in_iter.coverage" NAME="4.14use_tube_in_iter Coverage Results" MODIFIED="1533371853026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iterationANDgenerate" />
     <SUITE FILE_PATH="coverage/mastering_python$iteration_generate.coverage" NAME="iteration_generate Coverage Results" MODIFIED="1533376923639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iterationANDgenerate" />
+    <SUITE FILE_PATH="coverage/mastering_python$5_8_IteratingOverFixed_SizedRecords.coverage" NAME="5.8.IteratingOverFixed-SizedRecords Coverage Results" MODIFIED="1533736710130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
     <SUITE FILE_PATH="coverage/mastering_python$10_2__Controlling_the_Import_of_Everything.coverage" NAME="10.2. Controlling the Import of Everything Coverage Results" MODIFIED="1533397776088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/packageANDmodules" />
-    <SUITE FILE_PATH="coverage/mastering_python$5_7_ReadingandWritingCompressedDatafiles.coverage" NAME="5.7.ReadingandWritingCompressedDatafiles Coverage Results" MODIFIED="1533735821927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
+    <SUITE FILE_PATH="coverage/mastering_python$5_7_ReadingandWritingCompressedDatafiles.coverage" NAME="5.7.ReadingandWritingCompressedDatafiles Coverage Results" MODIFIED="1533736699803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
     <SUITE FILE_PATH="coverage/mastering_python$5_3_PrintingwithaDifferentSeparatororLineEnding.coverage" NAME="5.3.PrintingwithaDifferentSeparatororLineEnding Coverage Results" MODIFIED="1533657993533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
     <SUITE FILE_PATH="coverage/mastering_python$4_4customed_iter.coverage" NAME="4.4customed_iter Coverage Results" MODIFIED="1533380149666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iterationANDgenerate" />
     <SUITE FILE_PATH="coverage/mastering_python$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1533441167898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/packageANDmodules" />
@@ -37,11 +38,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="5.7.ReadingandWritingCompressedDatafiles.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="5.7.ReadingandWritingCompressedDatafiles.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/files and IO/5.7.ReadingandWritingCompressedDatafiles.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="504">
               <caret line="41" column="12" lean-forward="false" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5.8.IteratingOverFixed-SizedRecords.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/files and IO/5.8.IteratingOverFixed-SizedRecords.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functools.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Envs/lh_env/Lib/functools.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2626">
+              <caret line="240" column="6" lean-forward="false" selection-start-line="240" selection-start-column="6" selection-end-line="240" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -118,6 +139,7 @@
         <option value="$PROJECT_DIR$/files and IO/5.6.Performing_IO_OperationsOnaStringProblemYou.py" />
         <option value="$PROJECT_DIR$/files and IO/README.md" />
         <option value="$PROJECT_DIR$/files and IO/5.7.ReadingandWritingCompressedDatafiles.py" />
+        <option value="$PROJECT_DIR$/files and IO/5.8.IteratingOverFixed-SizedRecords.py" />
       </list>
     </option>
   </component>
@@ -127,7 +149,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-11" />
     <option name="y" value="-11" />
     <option name="width" value="980" />
@@ -203,26 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5.7.ReadingandWritingCompressedDatafiles">
-    <configuration name="5.2.PrintingToAFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files and IO" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mastering python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files and IO/5.2.PrintingToAFile.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.5.8.IteratingOverFixed-SizedRecords">
     <configuration name="5.3.PrintingwithaDifferentSeparatororLineEnding" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -299,20 +302,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="5.8.IteratingOverFixed-SizedRecords" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files and IO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mastering python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files and IO/5.8.IteratingOverFixed-SizedRecords.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.5.2.PrintingToAFile" />
-      <item index="1" class="java.lang.String" itemvalue="Python.5.3.PrintingwithaDifferentSeparatororLineEnding" />
-      <item index="2" class="java.lang.String" itemvalue="Python.5.4.ReadingandWritingBinaryData" />
-      <item index="3" class="java.lang.String" itemvalue="Python.5.6.Performing_IO_OperationsOnaStringProblemYou" />
-      <item index="4" class="java.lang.String" itemvalue="Python.5.7.ReadingandWritingCompressedDatafiles" />
+      <item index="0" class="java.lang.String" itemvalue="Python.5.3.PrintingwithaDifferentSeparatororLineEnding" />
+      <item index="1" class="java.lang.String" itemvalue="Python.5.4.ReadingandWritingBinaryData" />
+      <item index="2" class="java.lang.String" itemvalue="Python.5.6.Performing_IO_OperationsOnaStringProblemYou" />
+      <item index="3" class="java.lang.String" itemvalue="Python.5.7.ReadingandWritingCompressedDatafiles" />
+      <item index="4" class="java.lang.String" itemvalue="Python.5.8.IteratingOverFixed-SizedRecords" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.5.7.ReadingandWritingCompressedDatafiles" />
-        <item index="1" class="java.lang.String" itemvalue="Python.5.6.Performing_IO_OperationsOnaStringProblemYou" />
-        <item index="2" class="java.lang.String" itemvalue="Python.5.3.PrintingwithaDifferentSeparatororLineEnding" />
-        <item index="3" class="java.lang.String" itemvalue="Python.5.4.ReadingandWritingBinaryData" />
-        <item index="4" class="java.lang.String" itemvalue="Python.5.2.PrintingToAFile" />
+        <item index="0" class="java.lang.String" itemvalue="Python.5.8.IteratingOverFixed-SizedRecords" />
+        <item index="1" class="java.lang.String" itemvalue="Python.5.7.ReadingandWritingCompressedDatafiles" />
+        <item index="2" class="java.lang.String" itemvalue="Python.5.6.Performing_IO_OperationsOnaStringProblemYou" />
+        <item index="3" class="java.lang.String" itemvalue="Python.5.3.PrintingwithaDifferentSeparatororLineEnding" />
+        <item index="4" class="java.lang.String" itemvalue="Python.5.4.ReadingandWritingBinaryData" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +355,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -342,7 +364,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2802469" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34320986" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18790497" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2861771" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -372,8 +394,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/liuhu.txt" />
-    <entry file="file://$PROJECT_DIR$/iteration_generate.py" />
     <entry file="file://$PROJECT_DIR$/test.txt" />
     <entry file="file://$PROJECT_DIR$/iterationANDgenerate/4.14yield_from.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1011,6 +1031,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="41" column="12" lean-forward="false" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/lh_env/Lib/functools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2626">
+          <caret line="240" column="6" lean-forward="false" selection-start-line="240" selection-start-column="6" selection-end-line="240" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files and IO/5.8.IteratingOverFixed-SizedRecords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="41" />
           <folding />
         </state>
       </provider>
