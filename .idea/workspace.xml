@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e824a83a-fc2a-4a27-a88f-3be1e2f1fe5e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Utility Scripting and System Administration/13.3. Parsing Command-Line Options.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Utility Scripting and System Administration/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Utility Scripting and System Administration/13.4. Prompting for a Password at Runtime.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Utility Scripting and System Administration/13.5. Getting the Terminal Size.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Utility Scripting and System Administration/README.md" afterPath="$PROJECT_DIR$/Utility Scripting and System Administration/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,6 +16,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/mastering_python$heapqmerge.coverage" NAME="heapqmerge Coverage Results" MODIFIED="1533311809125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iterationANDgenerate" />
+    <SUITE FILE_PATH="coverage/mastering_python$13_5__Getting_the_Terminal_Size.coverage" NAME="13.5. Getting the Terminal Size Coverage Results" MODIFIED="1533915722878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
     <SUITE FILE_PATH="coverage/mastering_python$4_16replac_ewhile.coverage" NAME="4.16replac_ewhile Coverage Results" MODIFIED="1533371857165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iterationANDgenerate" />
     <SUITE FILE_PATH="coverage/mastering_python$5_4_ReadingandWritingBinaryData.coverage" NAME="5.4.ReadingandWritingBinaryData Coverage Results" MODIFIED="1533657933765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
     <SUITE FILE_PATH="coverage/mastering_python$about_path.coverage" NAME="about_path Coverage Results" MODIFIED="1533394016042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../basic python" />
@@ -44,17 +46,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="13.2. Terminating a Program with an Error Message.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.2. Terminating a Program with an Error Message.py">
+      <file leaf-file-name="13.4. Prompting for a Password at Runtime.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.4. Prompting for a Password at Runtime.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="13.3. Parsing Command-Line Options.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="13.3. Parsing Command-Line Options.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.3. Parsing Command-Line Options.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -64,11 +66,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="13.5. Getting the Terminal Size.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.5. Getting the Terminal Size.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="33" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="264">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -95,8 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/iterationANDgenerate/4.10.py" />
-        <option value="$PROJECT_DIR$/iterationANDgenerate/4.15heapqmerge.py" />
         <option value="$PROJECT_DIR$/iterationANDgenerate/4.11zip.py" />
         <option value="$PROJECT_DIR$/iterationANDgenerate/4.12chain.py" />
         <option value="$PROJECT_DIR$/iterationANDgenerate/iteration_generate.py" />
@@ -144,8 +154,10 @@
         <option value="$PROJECT_DIR$/Utility Scripting and System Administration/test" />
         <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.1Accepting Script Input via Redirection, Pipes, or Input Files.py" />
         <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.2. Terminating a Program with an Error Message.py" />
-        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/README.md" />
         <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.3. Parsing Command-Line Options.py" />
+        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.4. Prompting for a Password at Runtime.py" />
+        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.5. Getting the Terminal Size.py" />
+        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/README.md" />
       </list>
     </option>
   </component>
@@ -223,7 +235,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.13.3. Parsing Command-Line Options">
+  <component name="RunManager" selected="Python.13.5. Getting the Terminal Size">
     <configuration name="13.1Accepting Script Input via Redirection, Pipes, or Input Files" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -281,6 +293,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="13.5. Getting the Terminal Size" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Utility Scripting and System Administration" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mastering python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utility Scripting and System Administration/13.5. Getting the Terminal Size.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="513.GettingaDirectoryListing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -300,39 +331,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="5.12.TestingfortheExistenceofaFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files and IO" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mastering python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files and IO/5.12.TestingfortheExistenceofaFile.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.5.12.TestingfortheExistenceofaFile" />
-      <item index="1" class="java.lang.String" itemvalue="Python.513.GettingaDirectoryListing" />
-      <item index="2" class="java.lang.String" itemvalue="Python.13.1Accepting Script Input via Redirection, Pipes, or Input Files" />
-      <item index="3" class="java.lang.String" itemvalue="Python.13.2. Terminating a Program with an Error Message" />
-      <item index="4" class="java.lang.String" itemvalue="Python.13.3. Parsing Command-Line Options" />
+      <item index="0" class="java.lang.String" itemvalue="Python.513.GettingaDirectoryListing" />
+      <item index="1" class="java.lang.String" itemvalue="Python.13.1Accepting Script Input via Redirection, Pipes, or Input Files" />
+      <item index="2" class="java.lang.String" itemvalue="Python.13.2. Terminating a Program with an Error Message" />
+      <item index="3" class="java.lang.String" itemvalue="Python.13.3. Parsing Command-Line Options" />
+      <item index="4" class="java.lang.String" itemvalue="Python.13.5. Getting the Terminal Size" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.13.3. Parsing Command-Line Options" />
-        <item index="1" class="java.lang.String" itemvalue="Python.13.2. Terminating a Program with an Error Message" />
-        <item index="2" class="java.lang.String" itemvalue="Python.13.1Accepting Script Input via Redirection, Pipes, or Input Files" />
-        <item index="3" class="java.lang.String" itemvalue="Python.513.GettingaDirectoryListing" />
-        <item index="4" class="java.lang.String" itemvalue="Python.5.12.TestingfortheExistenceofaFile" />
+        <item index="0" class="java.lang.String" itemvalue="Python.13.5. Getting the Terminal Size" />
+        <item index="1" class="java.lang.String" itemvalue="Python.13.3. Parsing Command-Line Options" />
+        <item index="2" class="java.lang.String" itemvalue="Python.13.2. Terminating a Program with an Error Message" />
+        <item index="3" class="java.lang.String" itemvalue="Python.13.1Accepting Script Input via Redirection, Pipes, or Input Files" />
+        <item index="4" class="java.lang.String" itemvalue="Python.513.GettingaDirectoryListing" />
       </list>
     </recent_temporary>
   </component>
@@ -360,7 +372,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36296296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36296296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34320986" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17710583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -392,8 +404,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../basic python/operations of str and text/text.py" />
-    <entry file="file://$PROJECT_DIR$/../basic python/operations of str and text/test.py" />
     <entry file="file://$PROJECT_DIR$/../basic python/operations of str and text/str_text.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6048">
@@ -666,14 +676,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.2. Terminating a Program with an Error Message.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -690,10 +692,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/README.md">
+    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.2. Terminating a Program with an Error Message.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="36">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.4. Prompting for a Password at Runtime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
           <folding />
         </state>
       </provider>
@@ -702,6 +712,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.5. Getting the Terminal Size.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="33" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="33" />
           <folding />
         </state>
       </provider>
