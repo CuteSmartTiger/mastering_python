@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e824a83a-fc2a-4a27-a88f-3be1e2f1fe5e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Utility Scripting and System Administration/13.4. Prompting for a Password at Runtime.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Utility Scripting and System Administration/13.5. Getting the Terminal Size.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Utility Scripting and System Administration/README.md" afterPath="$PROJECT_DIR$/Utility Scripting and System Administration/README.md" />
+      <change beforePath="$PROJECT_DIR$/Utility Scripting and System Administration/13.4. Prompting for a Password at Runtime.py" afterPath="$PROJECT_DIR$/Utility Scripting and System Administration/13.4. Prompting for a Password at Runtime.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +13,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/mastering_python$heapqmerge.coverage" NAME="heapqmerge Coverage Results" MODIFIED="1533311809125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iterationANDgenerate" />
-    <SUITE FILE_PATH="coverage/mastering_python$13_5__Getting_the_Terminal_Size.coverage" NAME="13.5. Getting the Terminal Size Coverage Results" MODIFIED="1533915722878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
+    <SUITE FILE_PATH="coverage/mastering_python$13_5__Getting_the_Terminal_Size.coverage" NAME="13.5. Getting the Terminal Size Coverage Results" MODIFIED="1533916095057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
     <SUITE FILE_PATH="coverage/mastering_python$4_16replac_ewhile.coverage" NAME="4.16replac_ewhile Coverage Results" MODIFIED="1533371857165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iterationANDgenerate" />
     <SUITE FILE_PATH="coverage/mastering_python$5_4_ReadingandWritingBinaryData.coverage" NAME="5.4.ReadingandWritingBinaryData Coverage Results" MODIFIED="1533657933765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
     <SUITE FILE_PATH="coverage/mastering_python$about_path.coverage" NAME="about_path Coverage Results" MODIFIED="1533394016042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../basic python" />
@@ -38,6 +35,7 @@
     <SUITE FILE_PATH="coverage/mastering_python$5_7_ReadingandWritingCompressedDatafiles.coverage" NAME="5.7.ReadingandWritingCompressedDatafiles Coverage Results" MODIFIED="1533736699803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
     <SUITE FILE_PATH="coverage/mastering_python$5_3_PrintingwithaDifferentSeparatororLineEnding.coverage" NAME="5.3.PrintingwithaDifferentSeparatororLineEnding Coverage Results" MODIFIED="1533657993533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
     <SUITE FILE_PATH="coverage/mastering_python$4_4customed_iter.coverage" NAME="4.4customed_iter Coverage Results" MODIFIED="1533380149666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iterationANDgenerate" />
+    <SUITE FILE_PATH="coverage/mastering_python$13_4__Prompting_for_a_Password_at_Runtime.coverage" NAME="13.4. Prompting for a Password at Runtime Coverage Results" MODIFIED="1533916099758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
     <SUITE FILE_PATH="coverage/mastering_python$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1533441167898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/packageANDmodules" />
     <SUITE FILE_PATH="coverage/mastering_python$5_12_TestingfortheExistenceofaFile.coverage" NAME="5.12.TestingfortheExistenceofaFile Coverage Results" MODIFIED="1533822745647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
     <SUITE FILE_PATH="coverage/mastering_python$10_11__Loading_Modules_from_a_Remote_Machine_Using_Import_Hooks.coverage" NAME="10.11. Loading_Modules_from_a_Remote_Machine_Using_Import_Hooks Coverage Results" MODIFIED="1533474787583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/packageANDmodules" />
@@ -46,41 +44,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="13.4. Prompting for a Password at Runtime.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="13.4. Prompting for a Password at Runtime.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.4. Prompting for a Password at Runtime.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="13.3. Parsing Command-Line Options.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.3. Parsing Command-Line Options.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="13.5. Getting the Terminal Size.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.5. Getting the Terminal Size.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="33" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -155,9 +123,9 @@
         <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.1Accepting Script Input via Redirection, Pipes, or Input Files.py" />
         <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.2. Terminating a Program with an Error Message.py" />
         <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.3. Parsing Command-Line Options.py" />
-        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.4. Prompting for a Password at Runtime.py" />
         <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.5. Getting the Terminal Size.py" />
         <option value="$PROJECT_DIR$/Utility Scripting and System Administration/README.md" />
+        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.4. Prompting for a Password at Runtime.py" />
       </list>
     </option>
   </component>
@@ -235,7 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.13.5. Getting the Terminal Size">
+  <component name="RunManager" selected="Python.13.4. Prompting for a Password at Runtime">
     <configuration name="13.1Accepting Script Input via Redirection, Pipes, or Input Files" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -293,6 +261,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="13.4. Prompting for a Password at Runtime" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Utility Scripting and System Administration" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mastering python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utility Scripting and System Administration/13.4. Prompting for a Password at Runtime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="13.5. Getting the Terminal Size" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -312,39 +299,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="513.GettingaDirectoryListing" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files and IO" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mastering python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files and IO/513.GettingaDirectoryListing.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.513.GettingaDirectoryListing" />
-      <item index="1" class="java.lang.String" itemvalue="Python.13.1Accepting Script Input via Redirection, Pipes, or Input Files" />
-      <item index="2" class="java.lang.String" itemvalue="Python.13.2. Terminating a Program with an Error Message" />
-      <item index="3" class="java.lang.String" itemvalue="Python.13.3. Parsing Command-Line Options" />
-      <item index="4" class="java.lang.String" itemvalue="Python.13.5. Getting the Terminal Size" />
+      <item index="0" class="java.lang.String" itemvalue="Python.13.1Accepting Script Input via Redirection, Pipes, or Input Files" />
+      <item index="1" class="java.lang.String" itemvalue="Python.13.2. Terminating a Program with an Error Message" />
+      <item index="2" class="java.lang.String" itemvalue="Python.13.3. Parsing Command-Line Options" />
+      <item index="3" class="java.lang.String" itemvalue="Python.13.5. Getting the Terminal Size" />
+      <item index="4" class="java.lang.String" itemvalue="Python.13.4. Prompting for a Password at Runtime" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.13.5. Getting the Terminal Size" />
-        <item index="1" class="java.lang.String" itemvalue="Python.13.3. Parsing Command-Line Options" />
-        <item index="2" class="java.lang.String" itemvalue="Python.13.2. Terminating a Program with an Error Message" />
-        <item index="3" class="java.lang.String" itemvalue="Python.13.1Accepting Script Input via Redirection, Pipes, or Input Files" />
-        <item index="4" class="java.lang.String" itemvalue="Python.513.GettingaDirectoryListing" />
+        <item index="0" class="java.lang.String" itemvalue="Python.13.4. Prompting for a Password at Runtime" />
+        <item index="1" class="java.lang.String" itemvalue="Python.13.5. Getting the Terminal Size" />
+        <item index="2" class="java.lang.String" itemvalue="Python.13.3. Parsing Command-Line Options" />
+        <item index="3" class="java.lang.String" itemvalue="Python.13.2. Terminating a Program with an Error Message" />
+        <item index="4" class="java.lang.String" itemvalue="Python.13.1Accepting Script Input via Redirection, Pipes, or Input Files" />
       </list>
     </recent_temporary>
   </component>
@@ -364,11 +332,20 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -377,6 +354,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17710583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -386,7 +364,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -700,18 +677,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.4. Prompting for a Password at Runtime.py">
+    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.5. Getting the Terminal Size.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.3. Parsing Command-Line Options.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="36" />
+        <state relative-caret-position="144">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -724,10 +693,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.5. Getting the Terminal Size.py">
+    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.3. Parsing Command-Line Options.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="33" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="33" />
+          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.4. Prompting for a Password at Runtime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="43" />
           <folding />
         </state>
       </provider>
