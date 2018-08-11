@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e824a83a-fc2a-4a27-a88f-3be1e2f1fe5e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Utility Scripting and System Administration/13.4. Prompting for a Password at Runtime.py" afterPath="$PROJECT_DIR$/Utility Scripting and System Administration/13.4. Prompting for a Password at Runtime.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Utility Scripting and System Administration/README.md" afterPath="$PROJECT_DIR$/Utility Scripting and System Administration/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,16 +17,23 @@
     <SUITE FILE_PATH="coverage/mastering_python$13_5__Getting_the_Terminal_Size.coverage" NAME="13.5. Getting the Terminal Size Coverage Results" MODIFIED="1533916095057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
     <SUITE FILE_PATH="coverage/mastering_python$4_16replac_ewhile.coverage" NAME="4.16replac_ewhile Coverage Results" MODIFIED="1533371857165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iterationANDgenerate" />
     <SUITE FILE_PATH="coverage/mastering_python$5_4_ReadingandWritingBinaryData.coverage" NAME="5.4.ReadingandWritingBinaryData Coverage Results" MODIFIED="1533657933765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
+    <SUITE FILE_PATH="coverage/mastering_python$13_6__Executing_an_External_Command_and_Getting_Its_Output.coverage" NAME="13.6. Executing an External Command and Getting Its Output Coverage Results" MODIFIED="1533956583864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
     <SUITE FILE_PATH="coverage/mastering_python$about_path.coverage" NAME="about_path Coverage Results" MODIFIED="1533394016042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../basic python" />
     <SUITE FILE_PATH="coverage/mastering_python$iteration_generate.coverage" NAME="iteration_generate Coverage Results" MODIFIED="1533376923639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iterationANDgenerate" />
     <SUITE FILE_PATH="coverage/mastering_python$10_2__Controlling_the_Import_of_Everything.coverage" NAME="10.2. Controlling the Import of Everything Coverage Results" MODIFIED="1533397776088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/packageANDmodules" />
+    <SUITE FILE_PATH="coverage/mastering_python$13_14__Putting_Limits_on_Memory_and_CPU_Usage.coverage" NAME="13.14. Putting Limits on Memory and CPU Usage Coverage Results" MODIFIED="1533992706858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
+    <SUITE FILE_PATH="coverage/mastering_python$13_9__Finding_Files_by_Name.coverage" NAME="13.9. Finding Files by Name Coverage Results" MODIFIED="1533981725285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
     <SUITE FILE_PATH="coverage/mastering_python$13_3__Parsing_Command_Line_Options.coverage" NAME="13.3. Parsing Command-Line Options Coverage Results" MODIFIED="1533915103916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
     <SUITE FILE_PATH="coverage/mastering_python$request_get_post.coverage" NAME="request_get_post Coverage Results" MODIFIED="1533481626959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Network_and_Web_Programming" />
     <SUITE FILE_PATH="coverage/mastering_python$zhankai.coverage" NAME="zhankai Coverage Results" MODIFIED="1533311165501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iterationANDgenerate" />
+    <SUITE FILE_PATH="coverage/mastering_python$13_8__Creating_and_Unpacking_Archives.coverage" NAME="13.8. Creating and Unpacking Archives Coverage Results" MODIFIED="1533972093583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
     <SUITE FILE_PATH="coverage/mastering_python$replacewhile.coverage" NAME="replacewhile Coverage Results" MODIFIED="1533371807386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iterationANDgenerate" />
     <SUITE FILE_PATH="coverage/mastering_python$5_1_ReadingandWritingTextData.coverage" NAME="5.1.ReadingandWritingTextData Coverage Results" MODIFIED="1533655897231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
     <SUITE FILE_PATH="coverage/mastering_python$513_GettingaDirectoryListing.coverage" NAME="513.GettingaDirectoryListing Coverage Results" MODIFIED="1533913664415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
+    <SUITE FILE_PATH="coverage/mastering_python$13_15__Launching_a_Web_Browser.coverage" NAME="13.15. Launching a Web Browser Coverage Results" MODIFIED="1533993122358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
     <SUITE FILE_PATH="coverage/mastering_python$13_2__Terminating_a_Program_with_an_Error_Message.coverage" NAME="13.2. Terminating a Program with an Error Message Coverage Results" MODIFIED="1533914164981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
+    <SUITE FILE_PATH="coverage/mastering_python$13_11__Adding_Logging_to_Simple_Scripts.coverage" NAME="13.11. Adding Logging to Simple Scripts Coverage Results" MODIFIED="1533986326254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
+    <SUITE FILE_PATH="coverage/mastering_python$13_13__Making_a_Stopwatch_Timer.coverage" NAME="13.13. Making a Stopwatch Timer Coverage Results" MODIFIED="1533991389209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
     <SUITE FILE_PATH="coverage/mastering_python$5_6_Performing_IO_OperationsOnaStringProblemYou.coverage" NAME="5.6.Performing_IO_OperationsOnaStringProblemYou Coverage Results" MODIFIED="1533735786606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
     <SUITE FILE_PATH="coverage/mastering_python$31.coverage" NAME="31 Coverage Results" MODIFIED="1533653608356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../LeetCode/array_medium" />
     <SUITE FILE_PATH="coverage/mastering_python$5_2_PrintingToAFile.coverage" NAME="5.2.PrintingToAFile Coverage Results" MODIFIED="1533655901295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
@@ -34,27 +42,18 @@
     <SUITE FILE_PATH="coverage/mastering_python$13_1Accepting_Script_Input_via_Redirection__Pipes__or_Input_Files.coverage" NAME="13.1Accepting Script Input via Redirection, Pipes, or Input Files Coverage Results" MODIFIED="1533913936560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
     <SUITE FILE_PATH="coverage/mastering_python$5_7_ReadingandWritingCompressedDatafiles.coverage" NAME="5.7.ReadingandWritingCompressedDatafiles Coverage Results" MODIFIED="1533736699803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
     <SUITE FILE_PATH="coverage/mastering_python$5_3_PrintingwithaDifferentSeparatororLineEnding.coverage" NAME="5.3.PrintingwithaDifferentSeparatororLineEnding Coverage Results" MODIFIED="1533657993533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
+    <SUITE FILE_PATH="coverage/mastering_python$13_7__Copying_or_Moving_Files_and_Directories.coverage" NAME="13.7. Copying or Moving Files and Directories Coverage Results" MODIFIED="1533953974178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
     <SUITE FILE_PATH="coverage/mastering_python$4_4customed_iter.coverage" NAME="4.4customed_iter Coverage Results" MODIFIED="1533380149666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iterationANDgenerate" />
-    <SUITE FILE_PATH="coverage/mastering_python$13_4__Prompting_for_a_Password_at_Runtime.coverage" NAME="13.4. Prompting for a Password at Runtime Coverage Results" MODIFIED="1533916099758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
+    <SUITE FILE_PATH="coverage/mastering_python$13_4__Prompting_for_a_Password_at_Runtime.coverage" NAME="13.4. Prompting for a Password at Runtime Coverage Results" MODIFIED="1533953156915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
     <SUITE FILE_PATH="coverage/mastering_python$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1533441167898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/packageANDmodules" />
     <SUITE FILE_PATH="coverage/mastering_python$5_12_TestingfortheExistenceofaFile.coverage" NAME="5.12.TestingfortheExistenceofaFile Coverage Results" MODIFIED="1533822745647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
     <SUITE FILE_PATH="coverage/mastering_python$10_11__Loading_Modules_from_a_Remote_Machine_Using_Import_Hooks.coverage" NAME="10.11. Loading_Modules_from_a_Remote_Machine_Using_Import_Hooks Coverage Results" MODIFIED="1533474787583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/packageANDmodules" />
     <SUITE FILE_PATH="coverage/mastering_python$5_11_ManipulatingPathnames.coverage" NAME="5.11.ManipulatingPathnames Coverage Results" MODIFIED="1533746362449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
     <SUITE FILE_PATH="coverage/mastering_python$4_12chain.coverage" NAME="4.12chain Coverage Results" MODIFIED="1533372261558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iterationANDgenerate" />
+    <SUITE FILE_PATH="coverage/mastering_python$13_12__Adding_Logging_to_Libraries.coverage" NAME="13.12. Adding Logging to Libraries Coverage Results" MODIFIED="1533987309187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="13.4. Prompting for a Password at Runtime.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.4. Prompting for a Password at Runtime.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -75,17 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/iterationANDgenerate/4.11zip.py" />
-        <option value="$PROJECT_DIR$/iterationANDgenerate/4.12chain.py" />
-        <option value="$PROJECT_DIR$/iterationANDgenerate/iteration_generate.py" />
-        <option value="$PROJECT_DIR$/iterationANDgenerate/4.4.py" />
-        <option value="$PROJECT_DIR$/iterationANDgenerate/4.4customed_iter.py" />
-        <option value="$PROJECT_DIR$/../basic python/upgrade.py" />
-        <option value="$PROJECT_DIR$/../basic python/test_for_path.py" />
-        <option value="$PROJECT_DIR$/../basic python/about_path.py" />
-        <option value="$PROJECT_DIR$/packageANDmodules/10.2. Controlling the Import of Everything.py" />
-        <option value="$PROJECT_DIR$/packageANDmodules/test.py" />
-        <option value="$PROJECT_DIR$/packageANDmodules/README.md" />
         <option value="$PROJECT_DIR$/packageANDmodules/__init__.py" />
         <option value="$PROJECT_DIR$/packageANDmodules/10.2. Controlling_The_Import_of_Everything.py" />
         <option value="$PROJECT_DIR$/packageANDmodules/Controlling_The_Import_of_Everything.py" />
@@ -124,8 +112,19 @@
         <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.2. Terminating a Program with an Error Message.py" />
         <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.3. Parsing Command-Line Options.py" />
         <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.5. Getting the Terminal Size.py" />
-        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/README.md" />
         <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.4. Prompting for a Password at Runtime.py" />
+        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.7. Copying or Moving Files and Directories.py" />
+        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.6. Executing an External Command and Getting Its Output.py" />
+        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.8. Creating and Unpacking Archives.py" />
+        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.9. Finding Files by Name.py" />
+        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.10. Reading Configuration Files.py" />
+        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/app.log" />
+        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.11. Adding Logging to Simple Scripts.py" />
+        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.12. Adding Logging to Libraries.py" />
+        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.13. Making a Stopwatch Timer.py" />
+        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.14. Putting Limits on Memory and CPU Usage.py" />
+        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.15. Launching a Web Browser.py" />
+        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/README.md" />
       </list>
     </option>
   </component>
@@ -135,7 +134,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-11" />
     <option name="y" value="-11" />
     <option name="width" value="980" />
@@ -159,6 +158,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,7 +175,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -203,8 +202,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.13.4. Prompting for a Password at Runtime">
-    <configuration name="13.1Accepting Script Input via Redirection, Pipes, or Input Files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.13.15. Launching a Web Browser">
+    <configuration name="13.11. Adding Logging to Simple Scripts" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -217,13 +216,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="mastering python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utility Scripting and System Administration/13.1Accepting Script Input via Redirection, Pipes, or Input Files.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utility Scripting and System Administration/13.11. Adding Logging to Simple Scripts.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="13.2. Terminating a Program with an Error Message" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="13.12. Adding Logging to Libraries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -236,13 +235,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="mastering python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utility Scripting and System Administration/13.2. Terminating a Program with an Error Message.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utility Scripting and System Administration/13.12. Adding Logging to Libraries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="13.3. Parsing Command-Line Options" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="13.13. Making a Stopwatch Timer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -255,13 +254,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="mastering python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utility Scripting and System Administration/13.3. Parsing Command-Line Options.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utility Scripting and System Administration/13.13. Making a Stopwatch Timer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="13.4. Prompting for a Password at Runtime" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="13.14. Putting Limits on Memory and CPU Usage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -274,13 +273,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="mastering python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utility Scripting and System Administration/13.4. Prompting for a Password at Runtime.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utility Scripting and System Administration/13.14. Putting Limits on Memory and CPU Usage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="13.5. Getting the Terminal Size" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="13.15. Launching a Web Browser" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -293,26 +292,26 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="mastering python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utility Scripting and System Administration/13.5. Getting the Terminal Size.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utility Scripting and System Administration/13.15. Launching a Web Browser.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.13.1Accepting Script Input via Redirection, Pipes, or Input Files" />
-      <item index="1" class="java.lang.String" itemvalue="Python.13.2. Terminating a Program with an Error Message" />
-      <item index="2" class="java.lang.String" itemvalue="Python.13.3. Parsing Command-Line Options" />
-      <item index="3" class="java.lang.String" itemvalue="Python.13.5. Getting the Terminal Size" />
-      <item index="4" class="java.lang.String" itemvalue="Python.13.4. Prompting for a Password at Runtime" />
+      <item index="0" class="java.lang.String" itemvalue="Python.13.11. Adding Logging to Simple Scripts" />
+      <item index="1" class="java.lang.String" itemvalue="Python.13.12. Adding Logging to Libraries" />
+      <item index="2" class="java.lang.String" itemvalue="Python.13.13. Making a Stopwatch Timer" />
+      <item index="3" class="java.lang.String" itemvalue="Python.13.14. Putting Limits on Memory and CPU Usage" />
+      <item index="4" class="java.lang.String" itemvalue="Python.13.15. Launching a Web Browser" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.13.4. Prompting for a Password at Runtime" />
-        <item index="1" class="java.lang.String" itemvalue="Python.13.5. Getting the Terminal Size" />
-        <item index="2" class="java.lang.String" itemvalue="Python.13.3. Parsing Command-Line Options" />
-        <item index="3" class="java.lang.String" itemvalue="Python.13.2. Terminating a Program with an Error Message" />
-        <item index="4" class="java.lang.String" itemvalue="Python.13.1Accepting Script Input via Redirection, Pipes, or Input Files" />
+        <item index="0" class="java.lang.String" itemvalue="Python.13.15. Launching a Web Browser" />
+        <item index="1" class="java.lang.String" itemvalue="Python.13.14. Putting Limits on Memory and CPU Usage" />
+        <item index="2" class="java.lang.String" itemvalue="Python.13.13. Making a Stopwatch Timer" />
+        <item index="3" class="java.lang.String" itemvalue="Python.13.12. Adding Logging to Libraries" />
+        <item index="4" class="java.lang.String" itemvalue="Python.13.11. Adding Logging to Simple Scripts" />
       </list>
     </recent_temporary>
   </component>
@@ -342,16 +341,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="true" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36296296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31111112" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34320986" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17710583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34557235" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -381,80 +379,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../basic python/operations of str and text/str_text.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6048">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../basic python/functional programming/detail_closure.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iterationANDgenerate/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packageANDmodules/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/packageANDmodules/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packageANDmodules/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iterationANDgenerate/iteration_generate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="157" column="12" lean-forward="false" selection-start-line="157" selection-start-column="12" selection-end-line="157" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../basic python/test_for_path.py" />
-    <entry file="file://$PROJECT_DIR$/../basic python/about_path.py" />
-    <entry file="file://$PROJECT_DIR$/../basic python/package_module.md" />
-    <entry file="file://$PROJECT_DIR$/../basic python/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-234">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packageANDmodules/Controlling_The_Import_of_Everything.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-553">
-          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packageANDmodules/othersknowledge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packageANDmodules/10.11. Loading_Modules_from_a_Remote_Machine_Using_Import_Hooks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/packageANDmodules/unknown.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -657,7 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,7 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -673,7 +595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -681,15 +602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -697,14 +609,138 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.4. Prompting for a Password at Runtime.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/lh_env/Lib/shutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30892">
+          <caret line="244" column="4" lean-forward="false" selection-start-line="244" selection-start-column="4" selection-end-line="244" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/tiger/python3/Lib/subprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1013">
+          <caret line="294" column="46" lean-forward="false" selection-start-line="294" selection-start-column="46" selection-end-line="294" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.6. Executing an External Command and Getting Its Output.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="43" />
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="60" />
+          <folding>
+            <element signature="e#61#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.7. Copying or Moving Files and Directories.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.8. Creating and Unpacking Archives.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="39" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.9. Finding Files by Name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="29" />
+          <folding>
+            <element signature="e#30#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.10. Reading Configuration Files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="36" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/app.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.11. Adding Logging to Simple Scripts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.14. Putting Limits on Memory and CPU Usage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="47" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="47" />
+          <folding>
+            <element signature="e#165#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.13. Making a Stopwatch Timer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.12. Adding Logging to Libraries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="36" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1116">
+          <caret line="31" column="36" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/tiger/python3/Lib/webbrowser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-582">
+          <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.15. Launching a Web Browser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="32" />
           <folding />
         </state>
       </provider>
