@@ -1,0 +1,9 @@
+CRITICAL:root:Host www.python.org unknown
+ERROR:root:Couldn't find 'spam'
+
+CRITICAL:2018-08-11 19:16:15,803:Host www.python.org unknown
+ERROR:2018-08-11 19:16:15,808:Couldn't find 'spam'
+WARNING:2018-08-11 19:16:15,808:Feature is deprecated
+CRITICAL:2018-08-11 19:18:46,511:Host www.python.org unknown
+ERROR:2018-08-11 19:18:46,512:Couldn't find 'spam'
+WARNING:2018-08-11 19:18:46,512:Feature is deprecated
