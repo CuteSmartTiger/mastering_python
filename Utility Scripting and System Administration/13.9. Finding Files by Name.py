@@ -31,7 +31,6 @@ import os
 import time
 def modified_within(top, seconds):
     now = time.time()
-    print(now)
     for path, dirs, files in os.walk(top):
         for name in files:
             fullpath = os.path.join(path, name)
@@ -46,4 +45,5 @@ if __name__ == '__main__':
 # print('Usage: {} dir seconds'.format(sys.argv[0]))
 #     raise SystemExit(1)
 
-modified_within(r'C:\liuhu\note\documents\mastering python', str(360))
+# 此处的float必须要有
+modified_within(r'C:\liuhu\note\documents\mastering python', float(360))
