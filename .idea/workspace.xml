@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e824a83a-fc2a-4a27-a88f-3be1e2f1fe5e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/TestingDebuggingandExceptions/14.3. Testing for Exceptional Conditions in Unit Tests.py" afterPath="$PROJECT_DIR$/TestingDebuggingandExceptions/14.3. Testing for Exceptional Conditions in Unit Tests.py" />
-    </list>
+    <list default="true" id="e824a83a-fc2a-4a27-a88f-3be1e2f1fe5e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +42,7 @@
     <SUITE FILE_PATH="coverage/mastering_python$5_7_ReadingandWritingCompressedDatafiles.coverage" NAME="5.7.ReadingandWritingCompressedDatafiles Coverage Results" MODIFIED="1533736699803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
     <SUITE FILE_PATH="coverage/mastering_python$5_3_PrintingwithaDifferentSeparatororLineEnding.coverage" NAME="5.3.PrintingwithaDifferentSeparatororLineEnding Coverage Results" MODIFIED="1533657993533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
     <SUITE FILE_PATH="coverage/mastering_python$13_7__Copying_or_Moving_Files_and_Directories.coverage" NAME="13.7. Copying or Moving Files and Directories Coverage Results" MODIFIED="1533953974178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
+    <SUITE FILE_PATH="coverage/mastering_python$Unittests_in_14_4__Logging_Test_Output_to_a_File_py.coverage" NAME="Unittests in 14.4. Logging Test Output to a File.py Coverage Results" MODIFIED="1534076766204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestingDebuggingandExceptions" />
     <SUITE FILE_PATH="coverage/mastering_python$4_4customed_iter.coverage" NAME="4.4customed_iter Coverage Results" MODIFIED="1533380149666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iterationANDgenerate" />
     <SUITE FILE_PATH="coverage/mastering_python$13_4__Prompting_for_a_Password_at_Runtime.coverage" NAME="13.4. Prompting for a Password at Runtime Coverage Results" MODIFIED="1533953156915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
     <SUITE FILE_PATH="coverage/mastering_python$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1533441167898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/packageANDmodules" />
@@ -55,11 +54,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="14.3. Testing for Exceptional Conditions in Unit Tests.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="14.3. Testing for Exceptional Conditions in Unit Tests.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.3. Testing for Exceptional Conditions in Unit Tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+            <state relative-caret-position="108">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14.4. Logging Test Output to a File.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.4. Logging Test Output to a File.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -86,7 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/files and IO/5.5.WritingtoaFileThatDoesn’tAlreadyExist.py" />
         <option value="$PROJECT_DIR$/files and IO/5.6.Performing_I/O_OperationsOnaStringProblemYou.py" />
         <option value="$PROJECT_DIR$/files and IO/5.6. Performing I/O Operations on a String Problem You.py" />
         <option value="$PROJECT_DIR$/files and IO/5.6.Performing_IO_OperationsOnaString Problem You.py" />
@@ -137,6 +145,7 @@
         <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/README.md" />
         <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.1.TestingOutputSenttostdout.py" />
         <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.3. Testing for Exceptional Conditions in Unit Tests.py" />
+        <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.4. Logging Test Output to a File.py" />
       </list>
     </option>
   </component>
@@ -215,26 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in 14.3. Testing for Exceptional Conditions in Unit Tests.py">
-    <configuration name="13.13. Making a Stopwatch Timer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Utility Scripting and System Administration" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mastering python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utility Scripting and System Administration/13.13. Making a Stopwatch Timer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in 14.4. Logging Test Output to a File.py">
     <configuration name="13.14. Putting Limits on Memory and CPU Usage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,20 +293,35 @@
       <option name="_new_target" value="&quot;$PROJECT_DIR$/TestingDebuggingandExceptions/14.3. Testing for Exceptional Conditions in Unit Tests.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
+    <configuration name="Unittests in 14.4. Logging Test Output to a File.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestingDebuggingandExceptions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mastering python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestingDebuggingandExceptions/14.4. Logging Test Output to a File.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.13.13. Making a Stopwatch Timer" />
-      <item index="1" class="java.lang.String" itemvalue="Python.13.14. Putting Limits on Memory and CPU Usage" />
-      <item index="2" class="java.lang.String" itemvalue="Python.13.15. Launching a Web Browser" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in 14.1.TestingOutputSenttostdout.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in 14.3. Testing for Exceptional Conditions in Unit Tests.py" />
+      <item index="0" class="java.lang.String" itemvalue="Python.13.14. Putting Limits on Memory and CPU Usage" />
+      <item index="1" class="java.lang.String" itemvalue="Python.13.15. Launching a Web Browser" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in 14.1.TestingOutputSenttostdout.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in 14.3. Testing for Exceptional Conditions in Unit Tests.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in 14.4. Logging Test Output to a File.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in 14.3. Testing for Exceptional Conditions in Unit Tests.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in 14.1.TestingOutputSenttostdout.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python.13.15. Launching a Web Browser" />
-        <item index="3" class="java.lang.String" itemvalue="Python.13.14. Putting Limits on Memory and CPU Usage" />
-        <item index="4" class="java.lang.String" itemvalue="Python.13.13. Making a Stopwatch Timer" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in 14.4. Logging Test Output to a File.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in 14.3. Testing for Exceptional Conditions in Unit Tests.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in 14.1.TestingOutputSenttostdout.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python.13.15. Launching a Web Browser" />
+        <item index="4" class="java.lang.String" itemvalue="Python.13.14. Putting Limits on Memory and CPU Usage" />
       </list>
     </recent_temporary>
   </component>
@@ -360,6 +365,9 @@
     </history-entry>
     <history-entry file="Unittests_in_14_3__Testing_for_Exceptional_Conditions_in_Unit_Tests_py - 2018.08.12 at 18h 13m 24s.xml">
       <configuration name="Unittests in 14.3. Testing for Exceptional Conditions in Unit Tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_14_4__Logging_Test_Output_to_a_File_py - 2018.08.12 at 20h 26m 06s.xml">
+      <configuration name="Unittests in 14.4. Logging Test Output to a File.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -672,14 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.4. Logging Test Output to a File.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.5. Skipping or Anticipating Test Failures.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -786,14 +786,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.2. Patching Objects in Unit Tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/tiger/python3/Lib/unittest/case.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -802,10 +794,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.2. Patching Objects in Unit Tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.3. Testing for Exceptional Conditions in Unit Tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.4. Logging Test Output to a File.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
           <folding />
         </state>
       </provider>
