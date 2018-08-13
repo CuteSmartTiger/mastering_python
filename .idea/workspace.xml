@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e824a83a-fc2a-4a27-a88f-3be1e2f1fe5e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="e824a83a-fc2a-4a27-a88f-3be1e2f1fe5e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +55,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="14.6. Handling Multiple Exceptions.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="14.6. Handling Multiple Exceptions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.6. Handling Multiple Exceptions.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -67,11 +65,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="14.7. Catching All Exceptions.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.7. Catching All Exceptions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="540">
+              <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -98,7 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/files and IO/5.6.Performing_IO_OperationsOnaString Problem You.py" />
         <option value="$PROJECT_DIR$/files and IO/5.3.PrintingwithaDifferentSeparatororLineEnding.py" />
         <option value="$PROJECT_DIR$/files and IO/5.6.Performing_IO_OperationsOnaStringProblemYou.py" />
         <option value="$PROJECT_DIR$/files and IO/5.7.ReadingandWritingCompressedDatafiles.py" />
@@ -147,8 +154,9 @@
         <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.3. Testing for Exceptional Conditions in Unit Tests.py" />
         <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.4. Logging Test Output to a File.py" />
         <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.5. Skipping or Anticipating Test Failures.py" />
-        <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/README.md" />
         <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.6. Handling Multiple Exceptions.py" />
+        <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/README.md" />
+        <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.7. Catching All Exceptions.py" />
       </list>
     </option>
   </component>
@@ -673,13 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.7. Catching All Exceptions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.11. Issuing Warning Messages.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -764,18 +765,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.6. Handling Multiple Exceptions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.7. Catching All Exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="31" />
           <folding />
         </state>
       </provider>
