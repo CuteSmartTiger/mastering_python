@@ -85,11 +85,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="14.10. Reraising the Last Exception.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="14.10. Reraising the Last Exception.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.10. Reraising the Last Exception.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="37" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14.11. Issuing Warning Messages.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.11. Issuing Warning Messages.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="33" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -126,7 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/files and IO/5.7.ReadingandWritingCompressedDatafiles.py" />
         <option value="$PROJECT_DIR$/files and IO/5.8.IteratingOverFixed-SizedRecords.py" />
         <option value="$PROJECT_DIR$/files and IO/5.9.ReadingBinaryDataintoaMutableBuffer.py" />
         <option value="$PROJECT_DIR$/files and IO/README.md" />
@@ -177,6 +186,7 @@
         <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.7. Catching All Exceptions.py" />
         <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.8. Creating Custom Exceptions.py" />
         <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.10. Reraising the Last Exception.py" />
+        <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.11. Issuing Warning Messages.py" />
       </list>
     </option>
   </component>
@@ -694,13 +704,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.11. Issuing Warning Messages.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.12. Debugging Basic Program Crashes Problem Your.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -807,6 +810,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="37" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.11. Issuing Warning Messages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="33" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="33" />
           <folding />
         </state>
       </provider>
