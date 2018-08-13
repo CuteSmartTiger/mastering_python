@@ -75,11 +75,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="14.8. Creating Custom Exceptions.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="14.8. Creating Custom Exceptions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.8. Creating Custom Exceptions.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="34" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14.10. Reraising the Last Exception.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.10. Reraising the Last Exception.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="37" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -116,7 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/files and IO/5.6.Performing_IO_OperationsOnaStringProblemYou.py" />
         <option value="$PROJECT_DIR$/files and IO/5.7.ReadingandWritingCompressedDatafiles.py" />
         <option value="$PROJECT_DIR$/files and IO/5.8.IteratingOverFixed-SizedRecords.py" />
         <option value="$PROJECT_DIR$/files and IO/5.9.ReadingBinaryDataintoaMutableBuffer.py" />
@@ -167,6 +176,7 @@
         <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/README.md" />
         <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.7. Catching All Exceptions.py" />
         <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.8. Creating Custom Exceptions.py" />
+        <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.10. Reraising the Last Exception.py" />
       </list>
     </option>
   </component>
@@ -712,13 +722,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.10. Reraising the Last Exception.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.1.TestingOutputSenttostdout.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -796,6 +799,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="34" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.10. Reraising the Last Exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="37" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="37" />
           <folding />
         </state>
       </provider>
