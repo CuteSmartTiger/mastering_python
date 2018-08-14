@@ -1,3 +1,5 @@
+# 12.1. Starting and Stopping Threads
+
 import time
 from threading import Thread
 # def countdown(n):
