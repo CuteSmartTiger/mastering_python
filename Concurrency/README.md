@@ -11,7 +11,7 @@ README.md写明本章的小节主要内容
 ```
 Event
 Condition
-
+threading   process    actor   涉及线程  进程  并行与分布式
 ```
 - 疑惑的知识点
 ```

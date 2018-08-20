@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e824a83a-fc2a-4a27-a88f-3be1e2f1fe5e" name="Default" comment="" />
+    <list default="true" id="e824a83a-fc2a-4a27-a88f-3be1e2f1fe5e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Concurrency/12.1. Starting and Stopping Threads.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Concurrency/12.2. Determining If a Thread Has Started.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +25,10 @@
     <SUITE FILE_PATH="coverage/mastering_python$10_2__Controlling_the_Import_of_Everything.coverage" NAME="10.2. Controlling the Import of Everything Coverage Results" MODIFIED="1533397776088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/packageANDmodules" />
     <SUITE FILE_PATH="coverage/mastering_python$Unittests_in_14_3__Testing_for_Exceptional_Conditions_in_Unit_Tests_py.coverage" NAME="Unittests in 14.3. Testing for Exceptional Conditions in Unit Tests.py Coverage Results" MODIFIED="1534068804258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestingDebuggingandExceptions" />
     <SUITE FILE_PATH="coverage/mastering_python$13_14__Putting_Limits_on_Memory_and_CPU_Usage.coverage" NAME="13.14. Putting Limits on Memory and CPU Usage Coverage Results" MODIFIED="1533992706858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
+    <SUITE FILE_PATH="coverage/mastering_python$12_1__Starting_and_Stopping_Threads.coverage" NAME="12.1. Starting and Stopping Threads Coverage Results" MODIFIED="1534257661655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Concurrency" />
     <SUITE FILE_PATH="coverage/mastering_python$13_9__Finding_Files_by_Name.coverage" NAME="13.9. Finding Files by Name Coverage Results" MODIFIED="1533981725285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
     <SUITE FILE_PATH="coverage/mastering_python$Unittests_in_14_1__Testing_Output_Sent_to_stdout_py.coverage" NAME="Unittests in 14.1.TestingOutputSenttostdout.py Coverage Results" MODIFIED="1534050755167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestingDebuggingandExceptions" />
+    <SUITE FILE_PATH="coverage/mastering_python$12_6__Storing_Thread_Specific_State.coverage" NAME="12.6. Storing Thread-Specific State Coverage Results" MODIFIED="1534349201093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Concurrency" />
     <SUITE FILE_PATH="coverage/mastering_python$13_3__Parsing_Command_Line_Options.coverage" NAME="13.3. Parsing Command-Line Options Coverage Results" MODIFIED="1533915103916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
     <SUITE FILE_PATH="coverage/mastering_python$request_get_post.coverage" NAME="request_get_post Coverage Results" MODIFIED="1533481626959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Network_and_Web_Programming" />
     <SUITE FILE_PATH="coverage/mastering_python$zhankai.coverage" NAME="zhankai Coverage Results" MODIFIED="1533311165501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/iterationANDgenerate" />
@@ -31,6 +37,7 @@
     <SUITE FILE_PATH="coverage/mastering_python$5_1_ReadingandWritingTextData.coverage" NAME="5.1.ReadingandWritingTextData Coverage Results" MODIFIED="1533655897231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
     <SUITE FILE_PATH="coverage/mastering_python$513_GettingaDirectoryListing.coverage" NAME="513.GettingaDirectoryListing Coverage Results" MODIFIED="1533913664415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files and IO" />
     <SUITE FILE_PATH="coverage/mastering_python$13_15__Launching_a_Web_Browser.coverage" NAME="13.15. Launching a Web Browser Coverage Results" MODIFIED="1533993122358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
+    <SUITE FILE_PATH="coverage/mastering_python$12_2__Determining_If_a_Thread_Has_Started.coverage" NAME="12.2. Determining If a Thread Has Started Coverage Results" MODIFIED="1534264146809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Concurrency" />
     <SUITE FILE_PATH="coverage/mastering_python$13_2__Terminating_a_Program_with_an_Error_Message.coverage" NAME="13.2. Terminating a Program with an Error Message Coverage Results" MODIFIED="1533914164981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
     <SUITE FILE_PATH="coverage/mastering_python$13_11__Adding_Logging_to_Simple_Scripts.coverage" NAME="13.11. Adding Logging to Simple Scripts Coverage Results" MODIFIED="1533986326254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
     <SUITE FILE_PATH="coverage/mastering_python$13_13__Making_a_Stopwatch_Timer.coverage" NAME="13.13. Making a Stopwatch Timer Coverage Results" MODIFIED="1533991389209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
@@ -54,68 +61,7 @@
     <SUITE FILE_PATH="coverage/mastering_python$13_12__Adding_Logging_to_Libraries.coverage" NAME="13.12. Adding Logging to Libraries Coverage Results" MODIFIED="1533987309187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utility Scripting and System Administration" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="14.6. Handling Multiple Exceptions.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.6. Handling Multiple Exceptions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="14.7. Catching All Exceptions.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.7. Catching All Exceptions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="14.8. Creating Custom Exceptions.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.8. Creating Custom Exceptions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="34" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="14.10. Reraising the Last Exception.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.10. Reraising the Last Exception.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="37" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="14.11. Issuing Warning Messages.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.11. Issuing Warning Messages.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="33" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -136,37 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/files and IO/5.8.IteratingOverFixed-SizedRecords.py" />
-        <option value="$PROJECT_DIR$/files and IO/5.9.ReadingBinaryDataintoaMutableBuffer.py" />
-        <option value="$PROJECT_DIR$/files and IO/README.md" />
-        <option value="$PROJECT_DIR$/files and IO/5.11.ManipulatingPathnames.py" />
-        <option value="$PROJECT_DIR$/files and IO/5.12.TestingfortheExistenceofaFile.py" />
-        <option value="$PROJECT_DIR$/files and IO/513.GettingaDirectoryListing.py" />
-        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/Accepting Script Input via Redirection, Pipes, or Input Files.py" />
-        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/test" />
-        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.1Accepting Script Input via Redirection, Pipes, or Input Files.py" />
-        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.2. Terminating a Program with an Error Message.py" />
-        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.3. Parsing Command-Line Options.py" />
-        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.5. Getting the Terminal Size.py" />
-        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.4. Prompting for a Password at Runtime.py" />
-        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.7. Copying or Moving Files and Directories.py" />
-        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.6. Executing an External Command and Getting Its Output.py" />
-        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.8. Creating and Unpacking Archives.py" />
-        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.9. Finding Files by Name.py" />
-        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.10. Reading Configuration Files.py" />
-        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/app.log" />
-        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.11. Adding Logging to Simple Scripts.py" />
-        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.12. Adding Logging to Libraries.py" />
-        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.13. Making a Stopwatch Timer.py" />
-        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.14. Putting Limits on Memory and CPU Usage.py" />
-        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/13.15. Launching a Web Browser.py" />
-        <option value="$PROJECT_DIR$/Utility Scripting and System Administration/README.md" />
-        <option value="$PROJECT_DIR$/Testing, Debugging, and Exceptions/14.2. Patching Objects in Unit Tests.py" />
-        <option value="$PROJECT_DIR$/Testing, Debugging, and Exceptions/README.md" />
-        <option value="$PROJECT_DIR$/Testing, Debugging, and Exceptions/14.3. Testing for Exceptional Conditions in Unit Tests.py" />
-        <option value="$PROJECT_DIR$/Testing, Debugging, and Exceptions/14.4. Logging Test Output to a File.py" />
-        <option value="$PROJECT_DIR$/Testing, Debugging, and Exceptions/14.5. Skipping or Anticipating Test Failures.py" />
-        <option value="$PROJECT_DIR$/Testing, Debugging, and Exceptions/14.6. Handling Multiple Exceptions.py" />
         <option value="$PROJECT_DIR$/Testing, Debugging, and Exceptions/14.7. Catching All Exceptions.py" />
         <option value="$PROJECT_DIR$/Testing, Debugging, and Exceptions/14.8. Creating Custom Exceptions.py" />
         <option value="$PROJECT_DIR$/Testing, Debugging, and Exceptions/14.9. Raising an Exception in Response to Another Exception.py" />
@@ -182,11 +97,42 @@
         <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.4. Logging Test Output to a File.py" />
         <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.5. Skipping or Anticipating Test Failures.py" />
         <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.6. Handling Multiple Exceptions.py" />
-        <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/README.md" />
         <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.7. Catching All Exceptions.py" />
         <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.8. Creating Custom Exceptions.py" />
         <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.10. Reraising the Last Exception.py" />
         <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.11. Issuing Warning Messages.py" />
+        <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/README.md" />
+        <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.13. Profiling and Timing Your Program.py" />
+        <option value="$PROJECT_DIR$/TestingDebuggingandExceptions/14.14. Making Your Programs Run Faster.py" />
+        <option value="$PROJECT_DIR$/Concurrency/12.7. Creating a Thread Pool.py" />
+        <option value="$PROJECT_DIR$/Concurrency/12.8. Performing Simple Parallel Programming.py" />
+        <option value="$PROJECT_DIR$/Concurrency/12.9. Dealing with the GIL (and How to Stop Worrying About It).py" />
+        <option value="$PROJECT_DIR$/Concurrency/12.10. Defining an Actor Task.py" />
+        <option value="$PROJECT_DIR$/Concurrency/12.11. Implementing Publish/12.12. Using Generators As an Alternative to Threads.py" />
+        <option value="$PROJECT_DIR$/Concurrency/12.11. Implementing Publish/Subscribe Messaging.py" />
+        <option value="$PROJECT_DIR$/Concurrency/12.13. Polling Multiple Thread Queues.py" />
+        <option value="$PROJECT_DIR$/Concurrency/12.11. Implementing Publish or Subscribe Messaging.py" />
+        <option value="$PROJECT_DIR$/Concurrency/12.14. Launching a Daemon Process on Unix.py" />
+        <option value="$PROJECT_DIR$/Concurrency/12.1. Starting and Stopping Threads.py" />
+        <option value="$PROJECT_DIR$/Concurrency/12.2. Determining If a Thread Has Started.py" />
+        <option value="$PROJECT_DIR$/Concurrency/12.3. Communicating Between Threads.py" />
+        <option value="$PROJECT_DIR$/Concurrency/12.4. Locking Critical Sections.py" />
+        <option value="$PROJECT_DIR$/Concurrency/12.5. Locking with Deadlock Avoidance.py" />
+        <option value="$PROJECT_DIR$/Concurrency/README.md" />
+        <option value="$PROJECT_DIR$/Concurrency/12.6. Storing Thread-Specific State.py" />
+        <option value="$PROJECT_DIR$/NetworkAndWebProgramming/11.2. Creating a TCP Server.py" />
+        <option value="$PROJECT_DIR$/NetworkAndWebProgramming/11.3. Creating a UDP Server.py" />
+        <option value="$PROJECT_DIR$/NetworkAndWebProgramming/11.5. Creating a Simple REST-Based Interface.py" />
+        <option value="$PROJECT_DIR$/NetworkAndWebProgramming/11.6. Implementing a Simple Remote Procedure Call with XML-RPC.py" />
+        <option value="$PROJECT_DIR$/NetworkAndWebProgramming/11.4. Generating a Range of IP Addresses from a CIDR Address.py" />
+        <option value="$PROJECT_DIR$/NetworkAndWebProgramming/11.7. Communicating Simply Between Interpreters.py" />
+        <option value="$PROJECT_DIR$/NetworkAndWebProgramming/11.8. Implementing Remote Procedure Calls.py" />
+        <option value="$PROJECT_DIR$/NetworkAndWebProgramming/11.9. Authenticating Clients Simply.py" />
+        <option value="$PROJECT_DIR$/NetworkAndWebProgramming/11.10. Adding SSL to Network Services.py" />
+        <option value="$PROJECT_DIR$/NetworkAndWebProgramming/11.11. Passing a Socket File Descriptor Between Processes.py" />
+        <option value="$PROJECT_DIR$/NetworkAndWebProgramming/11.12. Understanding Event-Driven I O.py" />
+        <option value="$PROJECT_DIR$/NetworkAndWebProgramming/11.13. Sending and Receiving Large Arrays.py" />
+        <option value="$PROJECT_DIR$/Metaprogramming/9.13. Using a Metaclass to Control Instance Creation.py" />
       </list>
     </option>
   </component>
@@ -220,7 +166,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,16 +174,11 @@
               <item name="mastering python" type="b2602c69:ProjectViewProjectNode" />
               <item name="mastering python" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="mastering python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mastering python" type="462c0819:PsiDirectoryNode" />
-              <item name="TestingDebuggingandExceptions" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,7 +188,11 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\liuhu\note\documents\mastering python\Concurrency" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\liuhu\note\documents\mastering python\Concurrency" />
       <recent name="C:\liuhu\note\documents\mastering python\Testing, Debugging, and Exceptions" />
       <recent name="C:\liuhu\note\documents\mastering python\Utility Scripting and System Administration" />
       <recent name="C:\liuhu\note\documents\mastering python\files and IO" />
@@ -265,55 +210,63 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in 14.5. Skipping or Anticipating Test Failures.py">
-    <configuration name="13.15. Launching a Web Browser" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.12.6. Storing Thread-Specific State">
+    <configuration name="12.1. Starting and Stopping Threads" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Utility Scripting and System Administration" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Concurrency" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="mastering python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utility Scripting and System Administration/13.15. Launching a Web Browser.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Concurrency/12.1. Starting and Stopping Threads.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Unittests in 14.1.TestingOutputSenttostdout.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="12.2. Determining If a Thread Has Started" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestingDebuggingandExceptions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Concurrency" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="mastering python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestingDebuggingandExceptions/14.1.TestingOutputSenttostdout.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Concurrency/12.2. Determining If a Thread Has Started.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Unittests in 14.3. Testing for Exceptional Conditions in Unit Tests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="12.6. Storing Thread-Specific State" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestingDebuggingandExceptions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Concurrency" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="mastering python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestingDebuggingandExceptions/14.3. Testing for Exceptional Conditions in Unit Tests.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Concurrency/12.6. Storing Thread-Specific State.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="Unittests in 14.4. Logging Test Output to a File.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -346,19 +299,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.13.15. Launching a Web Browser" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in 14.1.TestingOutputSenttostdout.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in 14.3. Testing for Exceptional Conditions in Unit Tests.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in 14.4. Logging Test Output to a File.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in 14.5. Skipping or Anticipating Test Failures.py" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in 14.4. Logging Test Output to a File.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in 14.5. Skipping or Anticipating Test Failures.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python.12.1. Starting and Stopping Threads" />
+      <item index="3" class="java.lang.String" itemvalue="Python.12.2. Determining If a Thread Has Started" />
+      <item index="4" class="java.lang.String" itemvalue="Python.12.6. Storing Thread-Specific State" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in 14.5. Skipping or Anticipating Test Failures.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in 14.4. Logging Test Output to a File.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in 14.3. Testing for Exceptional Conditions in Unit Tests.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in 14.1.TestingOutputSenttostdout.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python.13.15. Launching a Web Browser" />
+        <item index="0" class="java.lang.String" itemvalue="Python.12.6. Storing Thread-Specific State" />
+        <item index="1" class="java.lang.String" itemvalue="Python.12.2. Determining If a Thread Has Started" />
+        <item index="2" class="java.lang.String" itemvalue="Python.12.1. Starting and Stopping Threads" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in 14.5. Skipping or Anticipating Test Failures.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in 14.4. Logging Test Output to a File.py" />
       </list>
     </recent_temporary>
   </component>
@@ -421,15 +374,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3888889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28395063" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34320986" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25701943" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24676026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -459,293 +411,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/tiger/python3/Lib/gzip.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files and IO/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files and IO/5.9.ReadingBinaryDataintoaMutableBuffer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files and IO/5.7.ReadingandWritingCompressedDatafiles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="41" column="12" lean-forward="false" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files and IO/5.8.IteratingOverFixed-SizedRecords.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="14" column="59" lean-forward="true" selection-start-line="0" selection-start-column="41" selection-end-line="14" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files and IO/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Envs/lh_env/Lib/functools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="240" column="6" lean-forward="false" selection-start-line="240" selection-start-column="6" selection-end-line="240" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files and IO/5.11.ManipulatingPathnames.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files and IO/5.12.TestingfortheExistenceofaFile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-396">
-          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Network_and_Web_Programming/request_get_post.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="42" column="68" lean-forward="true" selection-start-line="42" selection-start-column="68" selection-end-line="42" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files and IO/513.GettingaDirectoryListing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="984">
-          <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.1Accepting Script Input via Redirection, Pipes, or Input Files.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.2. Terminating a Program with an Error Message.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.5. Getting the Terminal Size.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.3. Parsing Command-Line Options.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.4. Prompting for a Password at Runtime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Envs/lh_env/Lib/shutil.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30892">
-          <caret line="244" column="4" lean-forward="false" selection-start-line="244" selection-start-column="4" selection-end-line="244" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/tiger/python3/Lib/subprocess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1013">
-          <caret line="294" column="46" lean-forward="false" selection-start-line="294" selection-start-column="46" selection-end-line="294" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.6. Executing an External Command and Getting Its Output.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.7. Copying or Moving Files and Directories.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.8. Creating and Unpacking Archives.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="39" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.9. Finding Files by Name.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="29" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.10. Reading Configuration Files.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/app.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.11. Adding Logging to Simple Scripts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.14. Putting Limits on Memory and CPU Usage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="47" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.13. Making a Stopwatch Timer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.12. Adding Logging to Libraries.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="36" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/tiger/python3/Lib/webbrowser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-582">
-          <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/13.15. Launching a Web Browser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Utility Scripting and System Administration/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="31" column="36" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.9. Raising an Exception in Response to Another Exception.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.12. Debugging Basic Program Crashes Problem Your.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.13. Profiling and Timing Your Program.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.14. Making Your Programs Run Faster.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="40" lean-forward="false" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.1.TestingOutputSenttostdout.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="32" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.2. Patching Objects in Unit Tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.4. Logging Test Output to a File.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.3. Testing for Exceptional Conditions in Unit Tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -774,27 +439,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.6. Handling Multiple Exceptions.py">
+    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.11. Issuing Warning Messages.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="36" />
-          <folding />
+          <caret line="0" column="33" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/README.md">
+    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.13. Profiling and Timing Your Program.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="42" lean-forward="true" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.7. Catching All Exceptions.py">
+    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.10. Reraising the Last Exception.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="-108">
+          <caret line="0" column="37" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -802,23 +464,604 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="34" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.7. Catching All Exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.6. Handling Multiple Exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.12. Debugging Basic Program Crashes Problem Your.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.14. Making Your Programs Run Faster.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="40" />
+          <folding>
+            <element signature="e#93#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/12.11. Implementing Publish/Subscribe Messaging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.10. Reraising the Last Exception.py">
+    <entry file="file://$PROJECT_DIR$/Concurrency/12.14. Launching a Daemon Process on Unix.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="37" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="37" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.11. Issuing Warning Messages.py">
+    <entry file="file://$PROJECT_DIR$/Concurrency/12.11. Implementing Publish or Subscribe Messaging.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="33" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="33" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/12.13. Polling Multiple Thread Queues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/12.12. Using Generators As an Alternative to Threads.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/12.10. Defining an Actor Task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/12.9. Dealing with the GIL (and How to Stop Worrying About It).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/12.8. Performing Simple Parallel Programming.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/12.7. Creating a Thread Pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/12.1. Starting and Stopping Threads.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#39#50#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/12.2. Determining If a Thread Has Started.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2808">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#214#249#0" expanded="true" />
+            <element signature="e#2236#2249#0" expanded="false" />
+            <element signature="e#2353#2437#0" expanded="false" />
+            <element signature="e#2535#2601#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/12.4. Locking Critical Sections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/12.3. Communicating Between Threads.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="37" />
+          <folding>
+            <element signature="e#55#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-739354964/_thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5940">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/tiger/python3/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="1314" column="39" lean-forward="false" selection-start-line="1314" selection-start-column="4" selection-end-line="1314" selection-end-column="39" />
+          <folding>
+            <element signature="e#390#428#0" expanded="false" />
+            <element signature="e#913#1235#0" expanded="false" />
+            <element signature="e#1703#1943#0" expanded="false" />
+            <element signature="e#1703#1893#1" expanded="false" />
+            <element signature="e#1969#2201#0" expanded="false" />
+            <element signature="e#1969#2155#1" expanded="false" />
+            <element signature="e#2285#2698#0" expanded="false" />
+            <element signature="e#2285#2597#1" expanded="false" />
+            <element signature="e#2718#6690#0" expanded="false" />
+            <element signature="e#2718#3024#1" expanded="false" />
+            <element signature="e#3058#3139#0" expanded="false" />
+            <element signature="e#3173#3572#0" expanded="false" />
+            <element signature="e#3363#3562#0" expanded="false" />
+            <element signature="e#3632#5186#0" expanded="false" />
+            <element signature="e#3632#4939#1" expanded="false" />
+            <element signature="e#5007#5044#0" expanded="false" />
+            <element signature="e#5124#5168#0" expanded="false" />
+            <element signature="e#5244#6109#0" expanded="false" />
+            <element signature="e#5244#5871#1" expanded="false" />
+            <element signature="e#6057#6109#0" expanded="false" />
+            <element signature="e#6153#6167#0" expanded="false" />
+            <element signature="e#6268#6330#0" expanded="false" />
+            <element signature="e#6369#6622#0" expanded="false" />
+            <element signature="e#6657#6690#0" expanded="false" />
+            <element signature="e#6733#12499#0" expanded="false" />
+            <element signature="e#6733#7101#1" expanded="false" />
+            <element signature="e#7146#7932#0" expanded="false" />
+            <element signature="e#7356#7420#0" expanded="false" />
+            <element signature="e#7967#7996#0" expanded="false" />
+            <element signature="e#8037#8070#0" expanded="false" />
+            <element signature="e#8104#8167#0" expanded="false" />
+            <element signature="e#8206#8255#0" expanded="false" />
+            <element signature="e#8300#8351#0" expanded="false" />
+            <element signature="e#8386#8637#0" expanded="false" />
+            <element signature="e#8386#8435#0" expanded="false" />
+            <element signature="e#8554#8599#0" expanded="false" />
+            <element signature="e#8681#10670#0" expanded="false" />
+            <element signature="e#8681#9818#1" expanded="false" />
+            <element signature="e#10164#10450#0" expanded="false" />
+            <element signature="e#10200#10245#0" expanded="false" />
+            <element signature="e#10280#10425#0" expanded="false" />
+            <element signature="e#10480#10670#0" expanded="false" />
+            <element signature="e#10557#10670#0" expanded="false" />
+            <element signature="e#10729#11408#0" expanded="false" />
+            <element signature="e#10729#10955#1" expanded="false" />
+            <element signature="e#11073#11386#0" expanded="false" />
+            <element signature="e#11114#11321#0" expanded="false" />
+            <element signature="e#11225#11321#0" expanded="false" />
+            <element signature="e#11445#12214#0" expanded="false" />
+            <element signature="e#11445#11782#1" expanded="false" />
+            <element signature="e#12086#12214#0" expanded="false" />
+            <element signature="e#12250#12471#0" expanded="false" />
+            <element signature="e#12250#12431#1" expanded="false" />
+            <element signature="e#12523#15564#0" expanded="false" />
+            <element signature="e#12523#12856#1" expanded="false" />
+            <element signature="e#12977#13126#0" expanded="false" />
+            <element signature="e#13188#15141#0" expanded="false" />
+            <element signature="e#13188#14430#1" expanded="false" />
+            <element signature="e#14638#15123#0" expanded="false" />
+            <element signature="e#14678#15046#0" expanded="false" />
+            <element signature="e#14781#15005#0" expanded="false" />
+            <element signature="e#14903#15005#0" expanded="false" />
+            <element signature="e#15081#15123#0" expanded="false" />
+            <element signature="e#15199#15506#0" expanded="false" />
+            <element signature="e#15199#15420#1" expanded="false" />
+            <element signature="e#15458#15506#0" expanded="false" />
+            <element signature="e#15550#15564#0" expanded="false" />
+            <element signature="e#15606#16959#0" expanded="false" />
+            <element signature="e#15606#16293#1" expanded="false" />
+            <element signature="e#16336#16403#0" expanded="false" />
+            <element signature="e#16436#16959#0" expanded="false" />
+            <element signature="e#16436#16752#1" expanded="false" />
+            <element signature="e#16790#16959#0" expanded="false" />
+            <element signature="e#16979#19038#0" expanded="false" />
+            <element signature="e#16979#17227#1" expanded="false" />
+            <element signature="e#17320#17377#0" expanded="false" />
+            <element signature="e#17424#17527#0" expanded="false" />
+            <element signature="e#17559#17644#0" expanded="false" />
+            <element signature="e#17693#17973#0" expanded="false" />
+            <element signature="e#17693#17882#1" expanded="false" />
+            <element signature="e#17920#17973#0" expanded="false" />
+            <element signature="e#18004#18236#0" expanded="false" />
+            <element signature="e#18004#18180#1" expanded="false" />
+            <element signature="e#18280#19038#0" expanded="false" />
+            <element signature="e#18280#18870#1" expanded="false" />
+            <element signature="e#18908#19038#0" expanded="false" />
+            <element signature="e#19041#19110#0" expanded="false" />
+            <element signature="e#19730#24902#0" expanded="false" />
+            <element signature="e#19730#19945#1" expanded="false" />
+            <element signature="e#20015#20594#0" expanded="false" />
+            <element signature="e#20015#20364#1" expanded="false" />
+            <element signature="e#20638#21631#0" expanded="false" />
+            <element signature="e#20638#20978#1" expanded="false" />
+            <element signature="e#21080#21631#0" expanded="false" />
+            <element signature="e#21222#21480#0" expanded="false" />
+            <element signature="e#21273#21333#0" expanded="false" />
+            <element signature="e#21376#21451#0" expanded="false" />
+            <element signature="e#21518#21631#0" expanded="false" />
+            <element signature="e#21637#21701#0" expanded="false" />
+            <element signature="e#21755#22019#0" expanded="false" />
+            <element signature="e#21797#21873#0" expanded="false" />
+            <element signature="e#22025#22086#0" expanded="false" />
+            <element signature="e#22141#22437#0" expanded="false" />
+            <element signature="e#22158#22304#0" expanded="false" />
+            <element signature="e#22333#22437#0" expanded="false" />
+            <element signature="e#22443#22507#0" expanded="false" />
+            <element signature="e#22587#22853#0" expanded="false" />
+            <element signature="e#22663#22756#0" expanded="false" />
+            <element signature="e#22859#22926#0" expanded="false" />
+            <element signature="e#22996#23166#0" expanded="false" />
+            <element signature="e#23029#23166#0" expanded="false" />
+            <element signature="e#23072#23166#0" expanded="false" />
+            <element signature="e#23197#23812#0" expanded="false" />
+            <element signature="e#23197#23344#1" expanded="false" />
+            <element signature="e#23382#23812#0" expanded="false" />
+            <element signature="e#23418#23726#0" expanded="false" />
+            <element signature="e#23459#23533#0" expanded="false" />
+            <element signature="e#23594#23726#0" expanded="false" />
+            <element signature="e#23594#23628#0" expanded="false" />
+            <element signature="e#23843#24095#0" expanded="false" />
+            <element signature="e#23843#24044#1" expanded="false" />
+            <element signature="e#24127#24287#0" expanded="false" />
+            <element signature="e#24127#24183#0" expanded="false" />
+            <element signature="e#24334#24427#0" expanded="false" />
+            <element signature="e#24476#24769#0" expanded="false" />
+            <element signature="e#24553#24623#0" expanded="false" />
+            <element signature="e#24815#24902#0" expanded="false" />
+            <element signature="e#24988#24992#0" expanded="false" />
+            <element signature="e#25160#25188#0" expanded="false" />
+            <element signature="e#25388#42630#0" expanded="false" />
+            <element signature="e#25388#25657#1" expanded="false" />
+            <element signature="e#25688#25744#0" expanded="false" />
+            <element signature="e#25964#26023#0" expanded="false" />
+            <element signature="e#26220#27834#0" expanded="false" />
+            <element signature="e#26220#27069#1" expanded="false" />
+            <element signature="e#27620#27664#0" expanded="false" />
+            <element signature="e#27891#28318#0" expanded="false" />
+            <element signature="e#27891#27957#0" expanded="false" />
+            <element signature="e#28161#28318#0" expanded="false" />
+            <element signature="e#28161#28222#0" expanded="false" />
+            <element signature="e#28352#28856#0" expanded="false" />
+            <element signature="e#28887#29666#0" expanded="false" />
+            <element signature="e#28887#29194#1" expanded="false" />
+            <element signature="e#29562#29637#0" expanded="false" />
+            <element signature="e#29695#30360#0" expanded="false" />
+            <element signature="e#29695#30045#1" expanded="false" />
+            <element signature="e#30071#30145#0" expanded="false" />
+            <element signature="e#30175#30360#0" expanded="false" />
+            <element signature="e#30175#30234#0" expanded="false" />
+            <element signature="e#30396#31359#0" expanded="false" />
+            <element signature="e#30396#30449#0" expanded="false" />
+            <element signature="e#31283#31359#0" expanded="false" />
+            <element signature="e#31395#31420#0" expanded="false" />
+            <element signature="e#31462#31696#0" expanded="false" />
+            <element signature="e#31462#31616#1" expanded="false" />
+            <element signature="e#31738#34597#0" expanded="false" />
+            <element signature="e#31755#34313#0" expanded="false" />
+            <element signature="e#31894#31954#0" expanded="false" />
+            <element signature="e#32237#34017#0" expanded="false" />
+            <element signature="e#32237#32293#0" expanded="false" />
+            <element signature="e#32548#32657#0" expanded="false" />
+            <element signature="e#32725#34017#0" expanded="false" />
+            <element signature="e#32725#32778#0" expanded="false" />
+            <element signature="e#32998#33777#0" expanded="false" />
+            <element signature="e#33357#33692#0" expanded="false" />
+            <element signature="e#33462#33618#0" expanded="false" />
+            <element signature="e#33798#33855#0" expanded="false" />
+            <element signature="e#34055#34313#0" expanded="false" />
+            <element signature="e#34055#34074#0" expanded="false" />
+            <element signature="e#34343#34597#0" expanded="false" />
+            <element signature="e#34384#34597#0" expanded="false" />
+            <element signature="e#34409#34548#0" expanded="false" />
+            <element signature="e#34409#34455#0" expanded="false" />
+            <element signature="e#34628#35796#0" expanded="false" />
+            <element signature="e#34628#34699#0" expanded="false" />
+            <element signature="e#35829#37618#0" expanded="false" />
+            <element signature="e#35906#35947#0" expanded="false" />
+            <element signature="e#37162#37517#0" expanded="false" />
+            <element signature="e#37203#37517#0" expanded="false" />
+            <element signature="e#37244#37305#0" expanded="false" />
+            <element signature="e#37555#37618#0" expanded="false" />
+            <element signature="e#37662#39314#0" expanded="false" />
+            <element signature="e#37662#38709#1" expanded="false" />
+            <element signature="e#39114#39314#0" expanded="false" />
+            <element signature="e#39114#39172#0" expanded="false" />
+            <element signature="e#39385#40052#0" expanded="false" />
+            <element signature="e#39385#39438#0" expanded="false" />
+            <element signature="e#40013#40052#0" expanded="false" />
+            <element signature="e#40096#40377#0" expanded="false" />
+            <element signature="e#40096#40286#1" expanded="false" />
+            <element signature="e#40430#40517#0" expanded="false" />
+            <element signature="e#40562#40975#0" expanded="false" />
+            <element signature="e#40562#40883#1" expanded="false" />
+            <element signature="e#41009#41488#0" expanded="false" />
+            <element signature="e#41009#41261#1" expanded="false" />
+            <element signature="e#41558#42113#0" expanded="false" />
+            <element signature="e#41558#42018#1" expanded="false" />
+            <element signature="e#42174#42407#0" expanded="false" />
+            <element signature="e#42441#42459#0" expanded="false" />
+            <element signature="e#42504#42526#0" expanded="false" />
+            <element signature="e#42559#42575#0" expanded="false" />
+            <element signature="e#42614#42630#0" expanded="false" />
+            <element signature="e#42718#43533#0" expanded="false" />
+            <element signature="e#42718#42935#1" expanded="false" />
+            <element signature="e#43013#43244#0" expanded="false" />
+            <element signature="e#43276#43351#0" expanded="false" />
+            <element signature="e#43380#43533#0" expanded="false" />
+            <element signature="e#43621#43862#0" expanded="false" />
+            <element signature="e#43649#43862#0" expanded="false" />
+            <element signature="e#43865#43924#0" expanded="false" />
+            <element signature="e#44334#44780#0" expanded="false" />
+            <element signature="e#44362#44551#0" expanded="false" />
+            <element signature="e#44582#44586#0" expanded="false" />
+            <element signature="e#44620#44694#0" expanded="false" />
+            <element signature="e#44738#44780#0" expanded="false" />
+            <element signature="e#44833#45174#0" expanded="false" />
+            <element signature="e#44833#45078#1" expanded="false" />
+            <element signature="e#45232#45455#0" expanded="false" />
+            <element signature="e#45232#45384#1" expanded="false" />
+            <element signature="e#45507#45628#0" expanded="false" />
+            <element signature="e#45651#46001#0" expanded="false" />
+            <element signature="e#45651#45910#1" expanded="false" />
+            <element signature="e#46035#46067#0" expanded="false" />
+            <element signature="e#46200#46917#0" expanded="false" />
+            <element signature="e#46200#46270#0" expanded="false" />
+            <element signature="e#46619#46692#0" expanded="false" />
+            <element signature="e#46870#46917#0" expanded="false" />
+            <element signature="e#46955#47055#0" expanded="false" />
+            <element signature="e#46985#47039#0" expanded="false" />
+            <element signature="e#47080#47253#0" expanded="false" />
+            <element signature="e#47080#47229#1" expanded="false" />
+            <element signature="e#47481#49035#0" expanded="false" />
+            <element signature="e#47481#47551#0" expanded="false" />
+            <element signature="e#48095#49035#0" expanded="false" />
+            <element signature="e#48095#48157#0" expanded="false" />
+            <element signature="e#48314#48919#0" expanded="false" />
+            <element signature="e#48314#48376#0" expanded="false" />
+            <element signature="e#48481#48764#0" expanded="false" />
+            <element signature="e#48481#48537#0" expanded="false" />
+            <element signature="e#48799#48919#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-739354964/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="187" column="7" lean-forward="true" selection-start-line="187" selection-start-column="7" selection-end-line="187" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/12.5. Locking with Deadlock Avoidance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="39" />
+          <folding>
+            <element signature="e#211#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/12.6. Storing Thread-Specific State.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="37" />
+          <folding>
+            <element signature="e#151#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetworkAndWebProgramming/11.2. Creating a TCP Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetworkAndWebProgramming/request_get_post.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2655">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetworkAndWebProgramming/11.3. Creating a UDP Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingDebuggingandExceptions/14.2. Patching Objects in Unit Tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetworkAndWebProgramming/11.4. Generating a Range of IP Addresses from a CIDR Address.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="55" lean-forward="false" selection-start-line="0" selection-start-column="55" selection-end-line="0" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetworkAndWebProgramming/11.7. Communicating Simply Between Interpreters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="49" lean-forward="false" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetworkAndWebProgramming/11.5. Creating a Simple REST-Based Interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetworkAndWebProgramming/11.6. Implementing a Simple Remote Procedure Call with XML-RPC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="57" lean-forward="false" selection-start-line="0" selection-start-column="57" selection-end-line="0" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetworkAndWebProgramming/11.8. Implementing Remote Procedure Calls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetworkAndWebProgramming/11.9. Authenticating Clients Simply.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="37" lean-forward="false" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetworkAndWebProgramming/11.12. Understanding Event-Driven I O.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetworkAndWebProgramming/11.11. Passing a Socket File Descriptor Between Processes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="59" lean-forward="false" selection-start-line="0" selection-start-column="59" selection-end-line="0" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetworkAndWebProgramming/11.10. Adding SSL to Network Services.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetworkAndWebProgramming/11.13. Sending and Receiving Large Arrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator/decorator_work.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator/decorates_know_better.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator/decorate_improve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1179">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Metaprogramming/9.13. Using a Metaclass to Control Instance Creation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="54" lean-forward="false" selection-start-line="0" selection-start-column="54" selection-end-line="0" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator/decorate_add_property.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2223">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
