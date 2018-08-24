@@ -22,6 +22,8 @@ class Root(metaclass=MyMeta):
 class A(Root):
     pass
 
+
+
 class B(Root):
     pass
 
