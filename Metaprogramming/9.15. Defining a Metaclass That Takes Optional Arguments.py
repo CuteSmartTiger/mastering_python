@@ -36,6 +36,9 @@ class Spam(metaclass=MyMeta):
     debug = True
     synchronize = True
     pass
+
 # 将这些属性定义为参数的好处在于它们不会污
 # 染类的名称空间， 这些属性仅仅只从属于类的
 # 创建阶段，而不是类中的语句执行阶段
+
+
