@@ -21,6 +21,7 @@
 用法：
 __init__
 __new__
+__dict__
 __member__
 __gettr__
 __call__
@@ -28,6 +29,7 @@ __repr__     列表查询时，可以打印出列表
 __str__      列表查询时，只可以打印对象，而不可以打印出列表
 __set__
 __delete__
+delattr()
 
 #### __get__,__getattr__和__getattribute都是访问属性的方
 - 用法
