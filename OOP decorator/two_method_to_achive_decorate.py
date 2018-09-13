@@ -29,6 +29,7 @@ log()
 
 print('---------------使用类实现装饰器-----------')
 class check:
+    # 初始化时保存传入的函数
     def __init__(self,func):
         self.fan = func
 
