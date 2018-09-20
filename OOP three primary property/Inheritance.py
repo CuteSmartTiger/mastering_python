@@ -39,3 +39,26 @@ print(Worker.age)
 Worker.age = 24
 print(Leader.age)
 print(Worker.age)
+
+print('-----------------super()------------------')
+# super()使用注意事项：
+# 一则：不用这样用super(self.__class__,self).__init__()
+# 二则：不用使用类调用父类资源，即使用‘父类.__init__’，也不要使用类与super的混合调用
+class D:
+    def __init__(self):
+        print('d')
+
+class B(D):
+    def __init__(self):
+        # super(self.__class__,self).__init__()   #这种写法容易导致死循环，super的两个参数
+        # 第一个是传入当前的结点，第二个参数是查找链，即顺着实例的mro往下查找
+        super(B, self).__init__()
+        print('b')
+
+
+class A(B):
+    def __init__(self):
+        super(A,self).__init__()
+        print('a')
+
+A()
