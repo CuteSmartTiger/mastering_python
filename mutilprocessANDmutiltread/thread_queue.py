@@ -5,6 +5,8 @@
 import threading
 import time
 from random import randint
+
+# 此处的Queue的只能用于线程之间的通信
 from queue import Queue
 
 
