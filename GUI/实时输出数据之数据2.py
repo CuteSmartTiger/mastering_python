@@ -48,4 +48,9 @@ def gettime1():
 
 
 gettime1()
-mainloop()
+root.mainloop()
+# time.sleep(3)
+root.withdraw()
+# time.sleep(3)
+# root.deiconify()
+
