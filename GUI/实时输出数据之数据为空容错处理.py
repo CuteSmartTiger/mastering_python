@@ -40,17 +40,17 @@ class CreateContain:
         self.fm1_2 = Frame(root)
         Label(textvariable=var, fg='blue', font=("黑体", 12)).grid(row=1, column=1, padx=60, pady=2)
 
-    def gettime(self):
+    def get_time(self):
         # time_data=None
         time_data = time.strftime("%H:%M:%S")
         if time_data:
             var.set(time_data)
         else:
             var.set('xxxxx')
-        self.fm1_2.after(1000, self.gettime)
+        self.fm1_2.after(1000, self.get_time)
 
 
 if __name__ == '__main__':
     create = CreateContain(root)
-    create.gettime()
+    create.get_time()
     mainloop()
