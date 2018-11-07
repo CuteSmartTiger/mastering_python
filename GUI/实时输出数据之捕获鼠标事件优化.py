@@ -21,7 +21,7 @@ def set_window(root):
     root.attributes('-toolwindow', True, '-alpha', 0.9, '-fullscreen', False, '-topmost', True)
     root.overrideredirect(True)
     root.grid()
-    center_window(root, 360, 160)
+    center_window(root, 360, 30)
     root.bind(sequence='<Leave>', func=disappear)
     root.bind(sequence='<Enter>', func=show)
 
