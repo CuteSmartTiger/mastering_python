@@ -23,7 +23,8 @@
 
 from threading import Lock
 
-# 全局解释器锁会在执行I/O操作或者执行固定长度的字节码或者CPU时间片到后释放
+# 全局解释器锁会在执行I/O操作或者执行固定长
+# 度的字节码或者CPU时间片到后释放
 total = 0
 
 # 获取锁这个对象
@@ -37,7 +38,9 @@ def add(ran):
     """
     global total, lock
     for i in range(ran):
-        # 通过dis我们知道运行结果不一样病发生争抢在于代码片执行中有对变量的暂时存储，所以可以对变量加锁
+        # 通过dis我们知道运行结果不一样 发生争抢
+        # 在于代码片执行中有对变量的暂时存储，所以
+        # 可以对变量加锁
         lock.acquire()
         total += 1
         lock.release()
