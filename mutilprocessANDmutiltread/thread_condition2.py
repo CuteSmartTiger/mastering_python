@@ -41,7 +41,8 @@ if __name__ == '__main__':
     cond = threading.Condition()
     god = God(cond)
     human = Huaman(cond)
-    # 如果先启动god，则god瞬间先执行到notify这步，而human后启动，则wait无法收到god的通知
+    # 如果先启动god，则god瞬间先执行到notify这步，
+    # 而human后启动，则wait无法收到god的通知
     # god.start()
     # human.start()
     human.start()
