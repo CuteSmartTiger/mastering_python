@@ -1,6 +1,7 @@
 from threading import RLock
 
-# RLock:可重入锁，在同一个线程中可以连续多次调用acquire获得锁，但是必须连续调用同样次数的release来释放锁
+# RLock:可重入锁，在同一个线程中可以连续多次调用acquire获得锁，
+# 但是必须连续调用同样次数的release来释放锁
 total = 0
 
 # 获取锁这个对象
@@ -22,7 +23,8 @@ def add(ran):
     """
     global total, lock
     for i in range(ran):
-        # 通过dis我们知道运行结果不一样病发生争抢在于代码片执行中有对变量的暂时存储，所以可以对变量加锁
+        # 通过dis我们知道运行结果不一样病发生争抢在于代码
+        # 片执行中有对变量的暂时存储，所以可以对变量加锁
         lock.acquire()
         total += 1
         mutil(lock)
