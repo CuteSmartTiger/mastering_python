@@ -8,13 +8,16 @@
 
 模块中的类  函数 变量
 
+##### 线程
+- python对于thread的管理中有两个函数：join和setDaemon
+  - join：如在一个线程B中调用threada.join()，则threada结束后，线程B才会接着threada.join()往后运行。
+  - setDaemon：主线程A启动了子线程B，调用b.setDaemaon(True)，则主线程结束时，会把子线程B也杀死，与C/C++中得默认效果是一样的。
+
 start
-
 join
-
 daemon
 
-- 线程之间的通信 
+- 线程之间的通信
 
 - 线程同步四种方法（Lock Rlock Semalphores Condition）
 
@@ -46,16 +49,13 @@ futures可以让多线程编程与多进程编程的代码规范和接口一致
 
 
 ### 进程
-
-
-
 - 进程与线程的区别
 
 - 多进程编码
 
 - 进程通信
 1.使用mutilprocessing中的Queue实现进程之间的通信
-2.进程之间无法使用全局变量进行通信 
+2.进程之间无法使用全局变量进行通信
 3.进程池之间需要通过manager()实例化后的Queue进行进程池间的通信
 
 ### 异步
@@ -88,5 +88,3 @@ I/O多路复用  检查多个socket，节省CPU时间，代码规范，成熟度
 异步I/O
 
 主要理解I/O多路复用与异步I/O的区别
-
-
