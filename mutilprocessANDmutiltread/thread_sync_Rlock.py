@@ -2,6 +2,8 @@ from threading import RLock
 
 # RLock:可重入锁，在同一个线程中可以连续多次调用acquire获得锁，
 # 但是必须连续调用同样次数的release来释放锁
+
+# RLock主要是解决lock获取一个后必须释放一个锁的缺点，可以在函数中调用函数，嵌套使用锁 
 total = 0
 
 # 获取锁这个对象
@@ -27,6 +29,7 @@ def add(ran):
         # 片执行中有对变量的暂时存储，所以可以对变量加锁
         lock.acquire()
         total += 1
+        # 函数中调用函数，主要是解决lock获取一个后必须释放一个锁的缺点
         mutil(lock)
         lock.release()
     print(total)
