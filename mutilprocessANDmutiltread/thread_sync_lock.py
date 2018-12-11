@@ -44,7 +44,7 @@ def add(ran):
         lock.acquire()
         total += 1
         lock.release()
-    print(total)
+    print('此处1：{0}'.format(total))
     return total
 
 
@@ -58,7 +58,7 @@ def sub(ran):
         lock.acquire()
         total -= 1
         lock.release()
-    print(total)
+    print('此处2：{0}'.format(total))
     return total
 
 
@@ -75,7 +75,7 @@ if __name__ == "__main__":
     # join表示通知主线程，对应的子线程结束后方可执行主线程
     # add_thread.join()
     # sub_thread.join()
-    print(total)
+    print('此处3：{0}'.format(total))
 
 # 加锁：所打印的三个total中，每一次最后一个total为0
 # 不加锁：所打印的三个total每次不一样
