@@ -17,24 +17,24 @@ def opre_io(n):
     return n
 
 if __name__ == '__main__':
-    with ThreadPoolExecutor(3) as executor:
-        all_tasks = [executor.submit(fib, n) for n in range(25, 35)]
-        start_time = time.time()
-        for future in as_completed(all_tasks):
-            result = future.result()
-            print(result)
-        print('thread spend time:', time.time() - start_time)
+    # with ThreadPoolExecutor(3) as executor:
+    #     all_tasks = [executor.submit(fib, n) for n in range(25, 35)]
+    #     start_time = time.time()
+    #     for future in as_completed(all_tasks):
+    #         result = future.result()
+    #         print(result)
+    #     print('thread spend time:', time.time() - start_time)
 
-    # Windows系统下，如果进程不在main下执行则会报错
-    with ProcessPoolExecutor(3) as executor:
-        all_tasks = [executor.submit(fib, n) for n in range(25, 35)]
-        start_time = time.time()
-        for future in as_completed(all_tasks):
-            result = future.result()
-            print(result)
-        print('process spend time:', time.time() - start_time)
-
-    with ThreadPoolExecutor(3) as executor:
+    # # Windows系统下，如果进程不在main下执行则会报错
+    # with ProcessPoolExecutor(3) as executor:
+    #     all_tasks = [executor.submit(fib, n) for n in range(25, 35)]
+    #     start_time = time.time()
+    #     for future in as_completed(all_tasks):
+    #         result = future.result()
+    #         print(result)
+    #     print('process spend time:', time.time() - start_time)
+    #
+    with ThreadPoolExecutor(40) as executor:
         all_tasks = [executor.submit(opre_io, n) for n in [1]*40]
         start_time = time.time()
         for future in as_completed(all_tasks):
@@ -42,10 +42,10 @@ if __name__ == '__main__':
             print(result)
         print('thread io spend time:', time.time() - start_time)
 
-    with ProcessPoolExecutor(3) as executor:
-        all_tasks = [executor.submit(opre_io, n) for n in [1]*40]
-        start_time = time.time()
-        for future in as_completed(all_tasks):
-            result = future.result()
-            print(result)
-        print('thread io spend time:', time.time() - start_time)
+    # with ProcessPoolExecutor(3) as executor:
+    #     all_tasks = [executor.submit(opre_io, n) for n in [1]*40]
+    #     start_time = time.time()
+    #     for future in as_completed(all_tasks):
+    #         result = future.result()
+    #         print(result)
+    #     print('thread io spend time:', time.time() - start_time)
