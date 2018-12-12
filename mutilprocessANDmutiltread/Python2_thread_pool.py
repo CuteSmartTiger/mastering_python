@@ -36,8 +36,8 @@ def handle_exception(request, exc_info):
         raise SystemExit
 
 
-mutil_args = [([5, 'ni hao'], None), ([8, 'hello'], None), ([3, 'hello'], None), ([10, 'hello'], None),
-              ([4, 'hello'], None), ]
+mutil_args = [([5, 'ni hao'], None), ([8, 'hello'], None), ([
+    3, 'hello'], None), ([10, 'hello'], None), ([4, 'hello'], None), ]
 if __name__ == '__main__':
     pass
     # 创建线程池
