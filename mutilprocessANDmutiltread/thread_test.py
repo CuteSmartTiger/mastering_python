@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2018/12/2 18:17
 # @Author  : liuhu
-# @Site    : 
+# @Site    :
 # @File    : thread_test.py
 # @Software: PyCharm
 # @github  :https://github.com/Max-Liuhu
@@ -11,6 +11,7 @@ import threading
 import time
 
 # 本案例主要解释线程的隔离，线程的名字是不同的，相互不影响的
+
 
 def worker():
     print('hi')
