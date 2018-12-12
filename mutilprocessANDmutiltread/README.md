@@ -16,7 +16,7 @@
 start
 join
 daemon
-
+***唯一不同的就是setdaemon(False)只是对所有子进程同时起作用，而join()是针对每一个进程单独起作用***
 - 线程之间的通信
 
 - 线程同步四种方法（Lock Rlock Semalphores Condition）
