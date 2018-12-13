@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 from threading import RLock
 
 # RLock:可重入锁，在同一个线程中可以连续多次调用acquire获得锁，
