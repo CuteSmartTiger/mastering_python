@@ -1,4 +1,8 @@
-# 进程之间的通信，这里不可以使用queue中的Queue，必须使用mutilprocessing中的Queue，进程之间无法使用全局变量进行通信
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+# 进程之间的通信，这里不可以使用queue中的Queue，
+# 必须使用mutilprocessing中的Queue，进程之间无法使用全局变量进行通信
 import time
 from multiprocessing import Queue,Process
 
