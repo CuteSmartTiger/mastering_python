@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 # GIL global interpreter lock 全局解释器锁 cpython
 # Python中的一个线程对应C语言中的一个线程
 # GIL使得同一个时刻只有一个线程在一个CPU上执行字节码，无法将多个线程映射到多个CPU上执行
