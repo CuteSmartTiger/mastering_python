@@ -51,7 +51,7 @@ if __name__ == "__main__":
         detail_threads.append(detail_thread)
         detail_thread.start()
         # detail_thread.join()
-    # 主线程会等待子线程结束后再继续执行
+    # 主线程会等待子线程结束后再继续执行，这样才可以获取任务执行总共花的时间
     url_queue.join()
     consumed_time = time.time() - time_start
     print(consumed_time)
