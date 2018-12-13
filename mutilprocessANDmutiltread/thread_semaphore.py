@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 # semaphore 控制每次允许的最大并发线程
 
 import threading
