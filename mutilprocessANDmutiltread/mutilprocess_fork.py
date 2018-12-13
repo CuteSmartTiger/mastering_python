@@ -1,5 +1,9 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import os
 import time
+
+# 本章节需要掌握的知识点：
 
 # fork 只用于Linux或Unix系统中，会返回两次
 # 子进程或复制父进程
