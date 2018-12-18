@@ -3,9 +3,12 @@
 
 # GIL global interpreter lock 全局解释器锁 cpython
 # Python中的一个线程对应C语言中的一个线程
-# GIL使得同一个时刻只有一个线程在一个CPU上执行字节码，无法将多个线程映射到多个CPU上执行
+# GIL使得同一个时刻只有一个线程在一个
+# CPU上执行字节码，无法将多个线程映射
+# 到多个CPU上执行
 import dis
 
+# GIL的概念
 
 def test(a):
     a = a + 1
