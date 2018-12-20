@@ -41,7 +41,7 @@ mutil_args = [([5, 'ni hao'], None), ([8, 'hello'], None), ([
 if __name__ == '__main__':
     pass
     # 创建线程池
-    thread_pool = ThreadPool(20, poll_timeout=3)
+    thread_pool = ThreadPool(1, poll_timeout=3)
     # 生产处理的任务清单
     requests = makeRequests(do_func, mutil_args)
     # 将任务放进线程池
