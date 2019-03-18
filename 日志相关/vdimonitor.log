@@ -1,0 +1,29 @@
+2019-03-18 16:58:27,601 - DEBUG - test
+2019-03-18 16:59:30,894 - DEBUG - test integer division or modulo by zero
+2019-03-18 17:00:47,545 - DEBUG - test %s
+Traceback (most recent call last):
+  File "D:/github/mastering_python/日志相关/配置日志.py", line 15, in test_log
+    1/0
+ZeroDivisionError: integer division or modulo by zero
+2019-03-18 17:01:35,131 - DEBUG - test %s
+Traceback (most recent call last):
+  File "D:/github/mastering_python/日志相关/配置日志.py", line 14, in test_log
+    1/0
+ZeroDivisionError: integer division or modulo by zero
+2019-03-18 17:03:49,569 - DEBUG - test %s
+Traceback (most recent call last):
+  File "D:/github/mastering_python/日志相关/配置日志.py", line 14, in test_log
+    1/0
+ZeroDivisionError: integer division or modulo by zero
+2019-03-18 17:07:56,135 - DEBUG-root:test %s
+Traceback (most recent call last):
+  File "D:/github/mastering_python/日志相关/配置日志.py", line 14, in test_log
+    1/0
+ZeroDivisionError: integer division or modulo by zero
+2019-03-18 19:27:40,334 - DEBUG-root:test %s
+Traceback (most recent call last):
+  File "D:/github/mastering_python/日志相关/配置日志.py", line 14, in test_log
+    1/0
+ZeroDivisionError: integer division or modulo by zero
+2019-03-18 19:27:40,335 - INFO-__main__:Unexpected exception
+None
