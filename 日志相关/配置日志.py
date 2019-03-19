@@ -7,13 +7,14 @@
 import logging
 
 
-LOG_FORMAT = "%(asctime)s - %(levelname)s-%(name)s:%(message)s"
+# LOG_FORMAT = "%(asctime)s - %(levelname)s-%(name)s:%(message)s"
+LOG_FORMAT = '[%(asctime)s: %(levelname)s in %(pathname)s:%(lineno)05d]: %(message)s '
 logging.basicConfig(filename='vdimonitor.log', level=logging.DEBUG, format=LOG_FORMAT)
 def test_log():
     try:
         1/0
     except ZeroDivisionError as e:
-        logging.debug('test %s',exc_info = True)
+        logging.debug('test',exc_info = True)
     else:
         print '测试日志'
 test_log()
