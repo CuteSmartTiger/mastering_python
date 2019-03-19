@@ -9,9 +9,11 @@
 import logging
 
 logger = logging.getLogger('LazyLogging')
-logger.setLevel(logging.INFO)
+# logger.setLevel(logging.INFO)
+logger.setLevel(logging.DEBUG)
 hander = logging.StreamHandler()
-formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+# formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+formatter = logging.Formatter('[%(asctime)s: %(levelname)s in %(pathname)s:%(lineno)05d]: %(message)s ')
 hander.setFormatter(formatter)
 logger.addHandler(hander)
 
