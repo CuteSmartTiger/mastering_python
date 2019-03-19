@@ -27,3 +27,13 @@ Traceback (most recent call last):
 ZeroDivisionError: integer division or modulo by zero
 2019-03-18 19:27:40,335 - INFO-__main__:Unexpected exception
 None
+[2019-03-19 10:04:50,444: DEBUG in D:/github/mastering_python/日志相关/配置日志.py:00017]: test %s 
+Traceback (most recent call last):
+  File "D:/github/mastering_python/日志相关/配置日志.py", line 15, in test_log
+    1/0
+ZeroDivisionError: integer division or modulo by zero
+[2019-03-19 10:06:03,694: DEBUG in D:/github/mastering_python/日志相关/配置日志.py:00017]: test 
+Traceback (most recent call last):
+  File "D:/github/mastering_python/日志相关/配置日志.py", line 15, in test_log
+    1/0
+ZeroDivisionError: integer division or modulo by zero
