@@ -1,0 +1,4 @@
+MainThread is not alive2019-04-15 15:34:48     MainThread is not alive2019-04-15 15:45:04     MainThread is not alive 
+2019-04-15 15:48:31     MainThread is not alive 
+2019-04-15 15:50:14     MainThread is not alive 
+2019-04-15 15:53:07     MainThread is not alive 
