@@ -1,0 +1,55 @@
+Thread test1 is alive or not :True
+Thread test1 is alive or not :True
+Thread test1 is alive or not :True
+Thread test1 is alive or not :True
+Thread test1 is alive or not :True
+Thread test1 is alive or not :True
+2019-04-15 15:34:42     Thread test1 is alive or not :True
+2019-04-15 15:34:43     Thread test1 is alive or not :True
+2019-04-15 15:34:44     Thread test1 is alive or not :True
+2019-04-15 15:34:45     Thread test1 is alive or not :True
+2019-04-15 15:34:46     Thread test1 is alive or not :True
+2019-04-15 15:34:47     Thread test1 is alive or not :True
+2019-04-15 15:44:58     Thread test1 is alive or not :True
+2019-04-15 15:44:59     Thread test1 is alive or not :True
+2019-04-15 15:45:00     Thread test1 is alive or not :True
+2019-04-15 15:45:01     Thread test1 is alive or not :True
+2019-04-15 15:45:02     Thread test1 is alive or not :True
+2019-04-15 15:45:03     Thread test1 is alive or not :True
+2019-04-15 15:48:16     Thread test1 is alive or not :True
+2019-04-15 15:48:17     Thread test1 is alive or not :True
+2019-04-15 15:48:18     Thread test1 is alive or not :True
+2019-04-15 15:48:19     Thread test1 is alive or not :True
+2019-04-15 15:48:20     Thread test1 is alive or not :True
+2019-04-15 15:48:21     Thread test1 is alive or not :True
+2019-04-15 15:48:22     Thread test1 is alive or not :False
+2019-04-15 15:48:23     Thread test1 is alive or not :False
+2019-04-15 15:48:24     Thread test1 is alive or not :False
+2019-04-15 15:48:25     Thread test1 is alive or not :False
+2019-04-15 15:48:26     Thread test1 is alive or not :False
+2019-04-15 15:48:27     Thread test1 is alive or not :False
+2019-04-15 15:48:28     Thread test1 is alive or not :False
+2019-04-15 15:48:29     Thread test1 is alive or not :False
+2019-04-15 15:48:30     Thread test1 is alive or not :False
+2019-04-15 15:49:59     Thread test1 is alive or not :True
+2019-04-15 15:50:00     Thread test1 is alive or not :True
+2019-04-15 15:50:01     Thread test1 is alive or not :True
+2019-04-15 15:50:02     Thread test1 is alive or not :True
+2019-04-15 15:50:03     Thread test1 is alive or not :True
+2019-04-15 15:50:04     Thread test1 is alive or not :True
+2019-04-15 15:50:05     Thread test1 is alive or not :False
+2019-04-15 15:50:06     Thread test1 is alive or not :False
+2019-04-15 15:50:07     Thread test1 is alive or not :False
+2019-04-15 15:50:08     Thread test1 is alive or not :False
+2019-04-15 15:50:09     Thread test1 is alive or not :False
+2019-04-15 15:50:10     Thread test1 is alive or not :False
+2019-04-15 15:50:11     Thread test1 is alive or not :False
+2019-04-15 15:50:12     Thread test1 is alive or not :False
+2019-04-15 15:50:13     Thread test1 is alive or not :False
+2019-04-15 15:52:52     Thread test1 is alive or not :True
+2019-04-15 15:52:53     Thread test1 is alive or not :True
+2019-04-15 15:52:54     Thread test1 is alive or not :True
+2019-04-15 15:52:55     Thread test1 is alive or not :True
+2019-04-15 15:52:56     Thread test1 is alive or not :True
+2019-04-15 15:52:57     Thread test1 is alive or not :True
+2019-04-15 15:52:58     Thread test1 is alive or not :False
