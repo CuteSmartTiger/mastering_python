@@ -11,8 +11,8 @@ import urllib
 import json
 
 
-requests_req = requests.get('http://192.168.6.43/v2/virtualmachines/compare_version?uuid=3295be80-02d6-3d5c-23b3-955af0246301')
-res = requests_req.json()
+requests_req = requests.get('http://cwzx.shdjt.com/cwcx.asp?gdmc=%CF%E3%B8%DB%D6%D0%D1%EB')
+res = requests_req.text
 print res
 print requests_req.status_code
 
