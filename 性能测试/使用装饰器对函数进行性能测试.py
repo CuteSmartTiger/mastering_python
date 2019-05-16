@@ -10,6 +10,7 @@
 import time
 from functools import wraps
 
+
 def timethis(func):
     @wraps(func)
     def wrapper(*args, **kwargs):
@@ -18,6 +19,7 @@ def timethis(func):
         end = time.time()
         print('{}.{} : {}'.format(func.__module__, func.__name__, end - start))
         return r
+
     return wrapper
 
 
@@ -27,4 +29,4 @@ def countdown(n):
         n -= 1
 
 
-countdown(10000)
+countdown(1000000)
